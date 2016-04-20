@@ -64,18 +64,34 @@ div.navbar form {
     background-color: #1583cc;
 }
 
-.batch-link {
-    background-color: #333333;
-    color: white;
-    text-align: center;
-    padding: 75px 0px 75px 0px;
-    font-size: 40px;
-    margin: 15px;
-    transition-property: all;
-    transition-duration: 0.5s;
+@media (min-width:992px) {
+    .batch-link {
+        background-color: #333333;
+        color: white;
+        text-align: center;
+        padding: 75px 0px 75px 0px;
+        font-size: 40px;
+        margin: 15px;
+        transition-property: all;
+        transition-duration: 0.5s;
+    }
+
+    .batch-link:hover {
+        background-color: black;
+        color: white;
+    }
 }
 
-.batch-link:hover {
-    background-color: black;
-    color: white;
+div.people-list {
+    padding: 10px;
+}
+
+div.people-list div.people-item {
+    border-top: thin solid;
+    border-color: #DDDDDD;
+    padding: 20px;
+}
+
+div.people-list div.people-item div.people-data {
+    padding: 10px;
 }

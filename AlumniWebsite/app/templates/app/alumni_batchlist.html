@@ -1,15 +1,26 @@
 ﻿{% extends "app/layout.html" %}
 
 {% block content %}
+{% load staticfiles %}
 
-<h2>{{ title }}.</h2>
+<h2>
+    {{ title }}.
+</h2>
 <p>Find all students of the {{ batch }} batch here.</p>
 
 <hr />
-
-<div class="row">
+<div class="people-list">
     {% for person in people %}
-        <a class="row" href="#">{{ person.user }}</a>
+        <div class="row people-item">
+            <a href="#">
+                <div class="col-sm-1 col-xs-3">
+                    <img src="{% static 'app/images/defaultavatar.png' %}" class="img-circle" height="40" width="40"/>
+                </div>
+                <div class="col-sm-3 col-xs-9 people-data">{{ person.user.first_name }} {{ person.user.last_name }}</div>
+                <div class="col-sm-4 hidden-xs people-data hide-for-small">{{ person.user.email }}</div>
+                <div class="col-sm-4 hidden-xs people-data">{{ person.jobtitle }}, {{ person.workplace }}</div>
+            </a>
+        </div>
     {% endfor %}
 </div>
 
