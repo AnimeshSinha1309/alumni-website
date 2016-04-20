@@ -1,0 +1,16 @@
+﻿{% extends "app/layout.html" %}
+
+{% block content %}
+
+<h2>{{ title }}.</h2>
+<p>Find all students of the {{ batch }} batch here.</p>
+
+<hr />
+
+<div class="row">
+    {% for person in people %}
+        <a class="row" href="#">{{ person.user }}</a>
+    {% endfor %}
+</div>
+
+{% endblock %}

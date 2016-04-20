@@ -1,6 +1,7 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background-color: #F7F7F7;
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -39,4 +40,42 @@ input[type="checkbox"].input-validation-error {
 
 .validation-summary-valid {
     display: none;
+}
+
+/* Styles for objects on alumnus page */
+
+div.navbar form {
+    margin-bottom: 0;
+}
+
+.btn.btn-foundation {
+    border-radius: 0;
+    width: 200px;
+    padding: 10px;
+    background-color: rgb(33, 153, 232);
+    font-size: 14.5px;
+    border: hidden;
+    margin: 2px 10px 2px;
+    transition-property: all;
+    transition-duration: 0.5s;
+}
+
+.btn.btn-foundation:hover {
+    background-color: #1583cc;
+}
+
+.batch-link {
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    padding: 75px 0px 75px 0px;
+    font-size: 40px;
+    margin: 15px;
+    transition-property: all;
+    transition-duration: 0.5s;
+}
+
+.batch-link:hover {
+    background-color: black;
+    color: white;
 }
