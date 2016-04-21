@@ -1,0 +1,12 @@
+{% extends "app/layout.html" %}
+
+{% block content %}
+{% load staticfiles %}
+<h2>Profile.</h2>
+
+<p>{{ data.user.first_name }} {{ data.user.last_name }}.</p>
+<p>{{ data.user.email }}.</p>
+<p>{{ data.batch }}.</p>
+<p>{{ data.jobtitle }}, {{ data.workplace }}.</p>
+
+{% endblock %}
