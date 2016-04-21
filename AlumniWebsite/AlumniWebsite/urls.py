@@ -26,8 +26,9 @@ urlpatterns = [
     url(r'^school/$', app.views.school, name='school'),
     # Alumni listings
     url(r'^alumni/batch/$', app.views.alumni_batches, name='alumni/batches'),
-    url(r'^alumni/batch/(?P<batch>[0-9]{4})/$', app.views.alumni_batchlist, name='alumni/batchlist'),
+    url(r'^alumni/batch/(?P<batch>[0-9]{4})/$', app.views.alumni_batchlist),
     url(r'^profile/(?P<username>\w*)/?$', app.views.profile, name='profile'),
+    url(r'^actions/befriend/(?P<username>\w*)/?$', app.views.befriend),
     # Authorization and Administration
     url(r'^login/$',
         django.contrib.auth.views.login,

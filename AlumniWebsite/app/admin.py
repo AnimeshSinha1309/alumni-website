@@ -14,6 +14,10 @@ class UserAdmin(BaseUserAdmin):
 class WorkplaceAdmin(admin.ModelAdmin):
     model = models.Workplace
 
+class CircleAdmin(admin.ModelAdmin):
+    model = models.Circle
+
 admin.site.unregister(User)
 admin.site.register(User, UserAdmin)
 admin.site.register(models.Workplace, WorkplaceAdmin)
+admin.site.register(models.Circle, CircleAdmin)

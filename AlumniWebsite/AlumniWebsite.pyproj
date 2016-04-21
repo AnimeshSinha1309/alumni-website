@@ -51,7 +51,6 @@
     <Folder Include="app\static\app\" />
     <Folder Include="app\static\app\content\" />
     <Folder Include="app\static\app\fonts\" />
-    <Folder Include="app\static\app\images\" />
     <Folder Include="app\static\app\scripts\" />
     <Folder Include="app\templates\" />
     <Folder Include="app\templates\app\" />
@@ -60,7 +59,6 @@
     <Folder Include="media\profile\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="app\static\app\images\defaultavatar.png" />
     <Content Include="app\templates\app\alumni_batches.html" />
     <Content Include="app\templates\app\alumni_batchlist.html" />
     <Content Include="app\templates\app\contribute.html" />
@@ -68,7 +66,9 @@
     <Content Include="app\templates\app\events.html" />
     <Content Include="app\templates\app\school.html" />
     <Content Include="media\profile\animeshsinha.jpg" />
-    <Content Include="media\profile\defaultavatar.png" />
+    <Content Include="media\profile\Ankit_Kumar.jpg" />
+    <Content Include="media\profile\Sagnik_Sanyal.jpg" />
+    <Content Include="media\profile\_defaultavatar.png" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />

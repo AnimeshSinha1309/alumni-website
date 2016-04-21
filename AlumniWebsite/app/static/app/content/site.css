@@ -89,3 +89,8 @@ div.people-list div.people-item {
 div.people-list div.people-item div.people-data {
     padding: 10px;
 }
+
+div.profile-item {
+    padding: 10px;
+    font-size: 20px;
+}

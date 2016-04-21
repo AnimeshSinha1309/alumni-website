@@ -2,11 +2,11 @@
 Definition of views.
 """
 
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.http import HttpRequest
 from django.template import RequestContext
 from datetime import datetime
-from app.models import Alumnus, User
+from app.models import Alumnus, User, Circle
 
 def home(request):
     """Renders the home page."""
@@ -66,14 +66,27 @@ def profile(request, username):
         person = request.user
     else:
         person = User.objects.get(username=username)
+    displaying = Alumnus.objects.get(user=person)
     return render(
         request,
         'app/profile.html',
         {
             'title':'Alumni List',
-            'data':Alumnus.objects.get(user=person),
+            'data':displaying,
+            'friends':Circle.objects.filter(user=displaying).only('friend'),
             'year':datetime.now().year,
         }
+    )
+
+def befriend(request, username):
+    """Adds a friend to the current user's profile."""
+    befriender = Alumnus.objects.get(user = request.user)
+    befriendee = Alumnus.objects.get(user = User.objects.get(username=username))
+    if(befriender != befriendee and Circle.objects.filter(user=befriender, friend=befriendee).count() == 0):
+        Circle(user=befriender, friend=befriendee, type='FR').save()
+    assert isinstance(request, HttpRequest)
+    return redirect(
+         '/profile/' + username,
     )
 
 def contribute(request):
