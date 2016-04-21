@@ -25,6 +25,7 @@ class Alumnus(models.Model):
     jobtitle = models.CharField(max_length=50)
     workplace = models.ForeignKey(Workplace)
     batch = models.IntegerField()
+    picture = models.ImageField(upload_to='profile/', default='profile/_defaultavatar.png')
     class Meta:
         verbose_name_plural = "Alumni"
 

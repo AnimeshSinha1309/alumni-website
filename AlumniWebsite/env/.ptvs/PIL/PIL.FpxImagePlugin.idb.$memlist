@@ -1,0 +1,10 @@
+MODES
+FpxImageFile
+i32
+i8
+MAGIC
+OleFileIO
+ImageFile
+_accept
+Image
+__version__

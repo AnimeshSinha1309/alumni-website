@@ -2,11 +2,18 @@
 
 {% block content %}
 {% load staticfiles %}
-<h2>Profile.</h2>
 
-<p>{{ data.user.first_name }} {{ data.user.last_name }}.</p>
-<p>{{ data.user.email }}.</p>
-<p>{{ data.batch }}.</p>
-<p>{{ data.jobtitle }}, {{ data.workplace }}.</p>
+<div class="row">
+    <div class="col-md-4">
+        <img src="/media/{{data.picture}}" height="200" width="200" class="img-circle" />
+        <h2>{{ data.user.first_name }} {{ data.user.last_name }}.</h2>
+    </div>
+    <div class="col-md-8">
+        <div>{{ data.user.email }}</div>
+        <div>{{ data.jobtitle }}, {{ data.workplace }}</div>
+        <div>{{ data.batch }}</div>
+        <div><a></a></div>
+    </div>
+</div>
 
 {% endblock %}

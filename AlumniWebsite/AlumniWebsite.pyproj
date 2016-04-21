@@ -56,6 +56,8 @@
     <Folder Include="app\templates\" />
     <Folder Include="app\templates\app\" />
     <Folder Include="AlumniWebsite\" />
+    <Folder Include="media\" />
+    <Folder Include="media\profile\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="app\static\app\images\defaultavatar.png" />
@@ -65,6 +67,8 @@
     <Content Include="app\templates\app\profile.html" />
     <Content Include="app\templates\app\events.html" />
     <Content Include="app\templates\app\school.html" />
+    <Content Include="media\profile\animeshsinha.jpg" />
+    <Content Include="media\profile\defaultavatar.png" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />

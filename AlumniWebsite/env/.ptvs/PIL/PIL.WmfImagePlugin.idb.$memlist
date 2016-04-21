@@ -1,0 +1,14 @@
+long
+WmfHandler
+WmfStubImageFile
+register_handler
+_binary
+short
+word
+dword
+_save
+ImageFile
+_accept
+_handler
+Image
+__version__
