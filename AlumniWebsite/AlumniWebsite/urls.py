@@ -15,7 +15,7 @@ from django.contrib import admin
 admin.autodiscover()
 
 urlpatterns = [
-    # Examples:
+    # Primary Pages
     url(r'^$', app.views.home, name='home'),
     url(r'^events/$', app.views.events, name='events'),
     url(r'^alumni/$', app.views.alumni_batches, name='alumni'),
@@ -25,7 +25,8 @@ urlpatterns = [
     # Alumni listings
     url(r'^alumni/batch/$', app.views.alumni_batches, name='alumni/batches'),
     url(r'^alumni/batch/(?P<batch>[0-9]{4})/$', app.views.alumni_batchlist, name='alumni/batchlist'),
-
+    url(r'^profile/(?P<username>\w*)/?$', app.views.profile, name='profile'),
+    # Authorization and Administration
     url(r'^login/$',
         django.contrib.auth.views.login,
         {

@@ -6,7 +6,7 @@ from django.shortcuts import render
 from django.http import HttpRequest
 from django.template import RequestContext
 from datetime import datetime
-from app.models import Alumnus
+from app.models import Alumnus, User
 
 def home(request):
     """Renders the home page."""
@@ -40,7 +40,7 @@ def alumni_batches(request):
         'app/alumni_batches.html',
         {
             'title':'Alumni List',
-            'batches':range(2000, 2017),
+            'batches':range(2016, 1981, -1),
             'year':datetime.now().year,
         }
     )
@@ -55,6 +55,23 @@ def alumni_batchlist(request, batch):
             'title':'Alumni List',
             'batch':batch,
             'people':Alumnus.objects.filter(batch=int(batch)),
+            'year':datetime.now().year,
+        }
+    )
+
+def profile(request, username):
+    """Renders personal profiles."""
+    assert isinstance(request, HttpRequest)
+    if(username == ""):
+        person = request.user
+    else:
+        person = User.objects.get(username=username)
+    return render(
+        request,
+        'app/profile.html',
+        {
+            'title':'Alumni List',
+            'data':Alumnus.objects.get(user=person),
             'year':datetime.now().year,
         }
     )

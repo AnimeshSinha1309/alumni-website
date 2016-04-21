@@ -59,9 +59,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app\static\app\images\defaultavatar.png" />
-    <Content Include="app\templates\app\alumni_batchlist.html" />
     <Content Include="app\templates\app\alumni_batches.html" />
+    <Content Include="app\templates\app\alumni_batchlist.html" />
     <Content Include="app\templates\app\contribute.html" />
+    <Content Include="app\templates\app\profile.html" />
     <Content Include="app\templates\app\events.html" />
     <Content Include="app\templates\app\school.html" />
     <Content Include="requirements.txt" />

@@ -1,4 +1,4 @@
-﻿{% extends "app/layout.html" %}
+{% extends "app/layout.html" %}
 
 {% block content %}
 
@@ -7,18 +7,22 @@
 
 <hr />
 
-<div class="">
-    <a class="btn btn-primary btn-foundation" href="#">Batch Classification</a>
-    <a class="btn btn-primary btn-foundation" href="#">Your Circles</a>
-    <a class="btn btn-primary btn-foundation" href="#">Distinguished Alumni</a>
-    <a class="btn btn-primary btn-foundation" href="#">Complete Listing</a>
-</div>
+<ul class="nav nav-pills">
+    <li class="active" role="presentation"><a href="#">Batch Classification</a></li>
+    <li role="presentation"><a href="#">Your Circles</a></li>
+    <li role="presentation"><a href="#">Distinguished Alumni</a></li>
+    <li role="presentation"><a href="#">Search for Friends</a></li>
+</ul>
 
 <hr />
 
 <div class="row">
     {% for batch in batches %}
-        <a class="batch-link col-lg-2 col-md-3 col-sm-12" href="/alumni/batch/{{batch}}/">{{ batch }}</a>
+        <div class="batch-link col-md-2 col-sm-3 col-xs-6">
+            <a href="/alumni/batch/{{batch}}/">
+                {{ batch }}
+            </a>
+        </div>
     {% endfor %}
 </div>
 
