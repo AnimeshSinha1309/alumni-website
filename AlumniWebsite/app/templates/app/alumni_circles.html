@@ -1,0 +1,34 @@
+{% extends "app/layout.html" %}
+
+{% block content %}
+
+<h2>{{ title }}.</h2>
+<p>Search our list to find all of St. Thomas' </p>
+
+<hr />
+
+<ul class="nav nav-pills">
+    <li role="presentation"><a href="{% url 'alumni/batches' %}">Batch Classification</a></li>
+    <li class="active" role="presentation"><a href="#">Your Circles</a></li>
+    <li role="presentation"><a href="{% url 'alumni/distinguished' %}">Distinguished Alumni</a></li>
+    <li role="presentation"><a href="{% url 'alumni/search' %}">Search Alumni</a></li>
+</ul>
+
+<hr />
+
+<div class="people-list">
+    {% for person in people %}
+        <div class="row people-item">
+            <a href="/profile/{{ person.friend.user.username }}">
+                <div class="col-sm-1 col-xs-3">
+                    <img src="{{ person.friend.picture.url }}" class="img-circle" height="40" width="40"/>
+                </div>
+                <div class="col-sm-3 col-xs-9 people-data">{{ person.friend.user.first_name }} {{ person.friend.user.last_name }}</div>
+                <div class="col-sm-4 hidden-xs people-data hide-for-small">{{ person.friend.user.email }}</div>
+                <div class="col-sm-4 hidden-xs people-data">{{ person.friend.jobtitle }}, {{ person.friend.workplace }}</div>
+            </a>
+        </div>
+    {% endfor %}
+</div>
+
+{% endblock %}

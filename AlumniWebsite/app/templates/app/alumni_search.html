@@ -1,0 +1,17 @@
+{% extends "app/layout.html" %}
+
+{% block content %}
+
+<h2>{{ title }}.</h2>
+<p>Search our list to find all of St. Thomas' </p>
+
+<hr />
+
+<ul class="nav nav-pills">
+    <li role="presentation"><a href="{% url 'alumni/batches' %}">Batch Classification</a></li>
+    <li role="presentation"><a href="{% url 'alumni/circles' %}">Your Circles</a></li>
+    <li role="presentation"><a href="{% url 'alumni/distinguished' %}">Distinguished Alumni</a></li>
+    <li class="active" role="presentation"><a href="#">Search Alumni</a></li>
+</ul>
+
+{% endblock %}

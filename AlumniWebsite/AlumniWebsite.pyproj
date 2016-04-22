@@ -29,6 +29,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="app\actions.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="app\admin.py">
       <SubType>Code</SubType>
     </Compile>
@@ -59,6 +62,9 @@
     <Folder Include="media\profile\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\templates\app\alumni_circles.html" />
+    <Content Include="app\templates\app\alumni_distinguished.html" />
+    <Content Include="app\templates\app\alumni_search.html" />
     <Content Include="app\templates\app\alumni_batches.html" />
     <Content Include="app\templates\app\alumni_batchlist.html" />
     <Content Include="app\templates\app\contribute.html" />

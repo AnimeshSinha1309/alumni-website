@@ -6,9 +6,21 @@
 <div style="padding: 30px;">
     <div class="row">
         <div class="col-md-4">
-            <img src="/media/{{data.picture}}" height="200" width="200" class="img-circle" />
+            <img src="{{ data.picture.url }}" height="200" width="200" class="img-circle" />
             <h2>{{ data.user.first_name }} {{ data.user.last_name }}</h2>
-            <a href="/actions/befriend/{{ data.user.username }}" class="btn btn-primary">Add to Friends List</a>
+            {% if status == 'Unconnected' %}
+                <a href="/actions/befriend/{{ data.user.username }}" class="btn btn-primary">
+                    Add to Friends List
+                </a>
+            {% elif status == 'Friends' %}
+                <a href="/actions/unfriend/{{ data.user.username }}" class="btn btn-primary">
+                    Remove to Friends List
+                </a>
+            {% elif status == 'Self' %}
+                <a href="/actions/befriend/{{ data.user.username }}" class="btn btn-primary">
+                    Cant do much on your Profile
+                </a>
+            {% endif %}
         </div>
         <div class="col-md-8">
             <div class="profile-item">
@@ -26,7 +38,7 @@
         {% for friend in friends %}
             <a class="col-md-2 col-sm-3 col-xs-6" style="padding: 10px 0px;" 
                     href="/profile/{{ friend.friend.user.username }}">
-                <img src="/media/{{ friend.friend.picture }}" class="img-circle" height="100" width="100"
+                <img src="{{ friend.friend.picture.url }}" class="img-circle" height="100" width="100"
                         title="{{ friend.friend.user.first_name }} {{ friend.friend.user.last_name }}" 
                         data-toggle="tooltip" data-placement="top" />
             </a>

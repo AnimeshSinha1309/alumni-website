@@ -2,7 +2,7 @@
 Definition of views.
 """
 
-from django.shortcuts import render, redirect
+from django.shortcuts import render
 from django.http import HttpRequest
 from django.template import RequestContext
 from datetime import datetime
@@ -32,6 +32,8 @@ def events(request):
         }
     )
 
+## Alumni Features and Profiles
+
 def alumni_batches(request):
     """Renders the alumni batch listing."""
     assert isinstance(request, HttpRequest)
@@ -59,14 +61,57 @@ def alumni_batchlist(request, batch):
         }
     )
 
+def alumni_circles(request):
+    """Renders the alumni listing for your circles."""
+    assert isinstance(request, HttpRequest)
+    return render(
+        request,
+        'app/alumni_circles.html',
+        {
+            'title':'Your Alumni Circles',
+            'people':Circle.objects.filter(user=Alumnus.objects.get(user=request.user)).only('friend'),
+            'year':datetime.now().year,
+        }
+    )
+
+def alumni_distinguished(request):
+    """Renders the distinguished alumni page."""
+    assert isinstance(request, HttpRequest)
+    return render(
+        request,
+        'app/alumni_distinguished.html',
+        {
+            'title':'Our Distinguished Alumni',
+            'year':datetime.now().year,
+        }
+    )
+
+def alumni_search(request):
+    """Renders the alumni search page."""
+    assert isinstance(request, HttpRequest)
+    return render(
+        request,
+        'app/alumni_search.html',
+        {
+            'title':'Search Alumni',
+            'year':datetime.now().year,
+        }
+    )
+
 def profile(request, username):
     """Renders personal profiles."""
     assert isinstance(request, HttpRequest)
-    if(username == ""):
-        person = request.user
-    else:
-        person = User.objects.get(username=username)
+    # Getting Alumnus to be displayed on profile
+    if(username == ""): person = request.user
+    else: person = User.objects.get(username=username)
     displaying = Alumnus.objects.get(user=person)
+    # Checking for Friendship status on Circles
+    befriender = Alumnus.objects.get(user = request.user)
+    befriendee = Alumnus.objects.get(user = person)
+    if(Circle.objects.filter(user=befriender, friend=befriendee).count() != 0): status = 'Friends'
+    elif(request.user == person): status = 'Self'
+    else: status = 'Unconnected'
+    # Rendering the view
     return render(
         request,
         'app/profile.html',
@@ -75,18 +120,8 @@ def profile(request, username):
             'data':displaying,
             'friends':Circle.objects.filter(user=displaying).only('friend'),
             'year':datetime.now().year,
+            'status':status,
         }
-    )
-
-def befriend(request, username):
-    """Adds a friend to the current user's profile."""
-    befriender = Alumnus.objects.get(user = request.user)
-    befriendee = Alumnus.objects.get(user = User.objects.get(username=username))
-    if(befriender != befriendee and Circle.objects.filter(user=befriender, friend=befriendee).count() == 0):
-        Circle(user=befriender, friend=befriendee, type='FR').save()
-    assert isinstance(request, HttpRequest)
-    return redirect(
-         '/profile/' + username,
     )
 
 def contribute(request):
