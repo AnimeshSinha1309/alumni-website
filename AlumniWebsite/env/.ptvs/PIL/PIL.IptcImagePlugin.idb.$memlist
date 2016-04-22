@@ -1,0 +1,17 @@
+IptcImageFile
+_binary
+__version__
+tempfile
+i32
+Image
+os
+PAD
+dump
+COMPRESSION
+i
+i8
+print_function
+getiptcinfo
+i16
+o8
+ImageFile

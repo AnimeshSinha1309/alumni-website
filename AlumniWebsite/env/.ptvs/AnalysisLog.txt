@@ -2272,3 +2272,210 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Micro
 2016-04-19T20:19:24: Saving group "F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\_markerlib"
 2016-04-19T20:19:24: End of group "F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\_markerlib"
 2016-04-19T20:19:25: Deleting 0 files
+
+2016-04-21T16:23:22: Start analysis
+2016-04-21T16:23:22: [WARNING] Library was set explicitly - skipping path detection
+2016-04-21T16:23:23: IncludeModulesFromModulePath = win32com
+2016-04-21T16:23:27: Deleting 0 files
+2016-04-21T16:23:27: Scraping PIL._imaging
+2016-04-21T16:23:27: Command: F:\Workspace\AlumniWebsite\AlumniWebsite\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape PIL._imaging F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages F:\Workspace\AlumniWebsite\AlumniWebsite\env\.ptvs\PIL\PIL._imaging
+2016-04-21T16:23:28: Scraping PIL._imagingcms
+2016-04-21T16:23:28: Command: F:\Workspace\AlumniWebsite\AlumniWebsite\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape PIL._imagingcms F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages F:\Workspace\AlumniWebsite\AlumniWebsite\env\.ptvs\PIL\PIL._imagingcms
+2016-04-21T16:23:28: Scraping PIL._imagingft
+2016-04-21T16:23:28: Command: F:\Workspace\AlumniWebsite\AlumniWebsite\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape PIL._imagingft F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages F:\Workspace\AlumniWebsite\AlumniWebsite\env\.ptvs\PIL\PIL._imagingft
+2016-04-21T16:23:28: Scraping PIL._imagingmath
+2016-04-21T16:23:28: Command: F:\Workspace\AlumniWebsite\AlumniWebsite\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape PIL._imagingmath F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages F:\Workspace\AlumniWebsite\AlumniWebsite\env\.ptvs\PIL\PIL._imagingmath
+2016-04-21T16:23:28: Scraping PIL._imagingmorph
+2016-04-21T16:23:28: Command: F:\Workspace\AlumniWebsite\AlumniWebsite\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape PIL._imagingmorph F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages F:\Workspace\AlumniWebsite\AlumniWebsite\env\.ptvs\PIL\PIL._imagingmorph
+2016-04-21T16:23:29: Scraping PIL._imagingtk
+2016-04-21T16:23:29: Command: F:\Workspace\AlumniWebsite\AlumniWebsite\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape PIL._imagingtk F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages F:\Workspace\AlumniWebsite\AlumniWebsite\env\.ptvs\PIL\PIL._imagingtk
+2016-04-21T16:23:30: Scraping PIL._webp
+2016-04-21T16:23:30: Command: F:\Workspace\AlumniWebsite\AlumniWebsite\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape PIL._webp F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages F:\Workspace\AlumniWebsite\AlumniWebsite\env\.ptvs\PIL\PIL._webp
+2016-04-21T16:23:30: Scraped 7 files
+2016-04-21T16:23:30: astropy.CallDepth = 0
+2016-04-21T16:23:30: matplotlib.CallDepth = 3
+2016-04-21T16:23:30: pandas.CallDepth = 0
+2016-04-21T16:23:30: sympy.CallDepth = 0
+2016-04-21T16:23:30: Start group "F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL" with 88 files
+2016-04-21T16:23:31: Parsing "PIL.BdfFontFile" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\BdfFontFile.py")
+2016-04-21T16:23:31: Parsing "PIL.BmpImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\BmpImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.BufrStubImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\BufrStubImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.ContainerIO" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ContainerIO.py")
+2016-04-21T16:23:31: Parsing "PIL.CurImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\CurImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.DcxImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\DcxImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.DdsImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\DdsImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.EpsImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\EpsImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.ExifTags" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ExifTags.py")
+2016-04-21T16:23:31: Parsing "PIL.features" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\features.py")
+2016-04-21T16:23:31: Parsing "PIL.FitsStubImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\FitsStubImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.FliImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\FliImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.FontFile" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\FontFile.py")
+2016-04-21T16:23:31: Parsing "PIL.FpxImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\FpxImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.FtexImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\FtexImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.GbrImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\GbrImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.GdImageFile" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\GdImageFile.py")
+2016-04-21T16:23:31: Parsing "PIL.GifImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\GifImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.GimpGradientFile" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\GimpGradientFile.py")
+2016-04-21T16:23:31: Parsing "PIL.GimpPaletteFile" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\GimpPaletteFile.py")
+2016-04-21T16:23:31: Parsing "PIL.GribStubImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\GribStubImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.Hdf5StubImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\Hdf5StubImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.IcnsImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\IcnsImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.IcoImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\IcoImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.Image" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\Image.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageChops" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageChops.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageCms" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageCms.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageColor" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageColor.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageDraw" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageDraw.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageDraw2" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageDraw2.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageEnhance" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageEnhance.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageFile" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageFile.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageFilter" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageFilter.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageFont" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageFont.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageGrab" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageGrab.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageMath" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageMath.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageMode" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageMode.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageMorph" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageMorph.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageOps" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageOps.py")
+2016-04-21T16:23:31: Parsing "PIL.ImagePalette" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImagePalette.py")
+2016-04-21T16:23:31: Parsing "PIL.ImagePath" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImagePath.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageQt" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageQt.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageSequence" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageSequence.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageShow" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageShow.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageStat" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageStat.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageTk" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageTk.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageTransform" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageTransform.py")
+2016-04-21T16:23:31: Parsing "PIL.ImageWin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImageWin.py")
+2016-04-21T16:23:31: Parsing "PIL.ImImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.ImtImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\ImtImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.IptcImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\IptcImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.Jpeg2KImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\Jpeg2KImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.JpegImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\JpegImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.JpegPresets" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\JpegPresets.py")
+2016-04-21T16:23:31: Parsing "PIL.McIdasImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\McIdasImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.MicImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\MicImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.MpegImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\MpegImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.MpoImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\MpoImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.MspImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\MspImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.OleFileIO" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\OleFileIO.py")
+2016-04-21T16:23:31: Parsing "PIL.PaletteFile" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\PaletteFile.py")
+2016-04-21T16:23:31: Parsing "PIL.PalmImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\PalmImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.PcdImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\PcdImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.PcfFontFile" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\PcfFontFile.py")
+2016-04-21T16:23:31: Parsing "PIL.PcxImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\PcxImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.PdfImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\PdfImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.PixarImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\PixarImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.PngImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\PngImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.PpmImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\PpmImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.PsdImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\PsdImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.PSDraw" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\PSDraw.py")
+2016-04-21T16:23:31: Parsing "PIL.PyAccess" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\PyAccess.py")
+2016-04-21T16:23:31: Parsing "PIL.SgiImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\SgiImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.SpiderImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\SpiderImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.SunImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\SunImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.TarIO" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\TarIO.py")
+2016-04-21T16:23:31: Parsing "PIL.TgaImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\TgaImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.TiffImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\TiffImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.TiffTags" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\TiffTags.py")
+2016-04-21T16:23:31: Parsing "PIL.WalImageFile" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\WalImageFile.py")
+2016-04-21T16:23:31: Parsing "PIL.WebPImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\WebPImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.WmfImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\WmfImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.XbmImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\XbmImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.XpmImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\XpmImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL.XVThumbImagePlugin" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\XVThumbImagePlugin.py")
+2016-04-21T16:23:31: Parsing "PIL._binary" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\_binary.py")
+2016-04-21T16:23:31: Parsing "PIL._util" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\_util.py")
+2016-04-21T16:23:31: Parsing "PIL" ("F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL\__init__.py")
+2016-04-21T16:23:31: Parsing complete
+2016-04-21T16:23:31: Analyzing "PIL.BdfFontFile"
+2016-04-21T16:23:32: Analyzing "PIL.BmpImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.BufrStubImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.ContainerIO"
+2016-04-21T16:23:32: Analyzing "PIL.CurImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.DcxImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.DdsImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.EpsImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.ExifTags"
+2016-04-21T16:23:32: Analyzing "PIL.features"
+2016-04-21T16:23:32: Analyzing "PIL.FitsStubImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.FliImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.FontFile"
+2016-04-21T16:23:32: Analyzing "PIL.FpxImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.FtexImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.GbrImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.GdImageFile"
+2016-04-21T16:23:32: Analyzing "PIL.GifImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.GimpGradientFile"
+2016-04-21T16:23:32: Analyzing "PIL.GimpPaletteFile"
+2016-04-21T16:23:32: Analyzing "PIL.GribStubImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.Hdf5StubImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.IcnsImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.IcoImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.Image"
+2016-04-21T16:23:32: Analyzing "PIL.ImageChops"
+2016-04-21T16:23:32: Analyzing "PIL.ImageCms"
+2016-04-21T16:23:32: Analyzing "PIL.ImageColor"
+2016-04-21T16:23:32: Analyzing "PIL.ImageDraw"
+2016-04-21T16:23:32: Analyzing "PIL.ImageDraw2"
+2016-04-21T16:23:32: Analyzing "PIL.ImageEnhance"
+2016-04-21T16:23:32: Analyzing "PIL.ImageFile"
+2016-04-21T16:23:32: Analyzing "PIL.ImageFilter"
+2016-04-21T16:23:32: Analyzing "PIL.ImageFont"
+2016-04-21T16:23:32: Analyzing "PIL.ImageGrab"
+2016-04-21T16:23:32: Analyzing "PIL.ImageMath"
+2016-04-21T16:23:32: Analyzing "PIL.ImageMode"
+2016-04-21T16:23:32: Analyzing "PIL.ImageMorph"
+2016-04-21T16:23:32: Analyzing "PIL.ImageOps"
+2016-04-21T16:23:32: Analyzing "PIL.ImagePalette"
+2016-04-21T16:23:32: Analyzing "PIL.ImagePath"
+2016-04-21T16:23:32: Analyzing "PIL.ImageQt"
+2016-04-21T16:23:32: Analyzing "PIL.ImageSequence"
+2016-04-21T16:23:32: Analyzing "PIL.ImageShow"
+2016-04-21T16:23:32: Analyzing "PIL.ImageStat"
+2016-04-21T16:23:32: Analyzing "PIL.ImageTk"
+2016-04-21T16:23:32: Analyzing "PIL.ImageTransform"
+2016-04-21T16:23:32: Analyzing "PIL.ImageWin"
+2016-04-21T16:23:32: Analyzing "PIL.ImImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.ImtImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.IptcImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.Jpeg2KImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.JpegImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.JpegPresets"
+2016-04-21T16:23:32: Analyzing "PIL.McIdasImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.MicImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.MpegImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.MpoImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.MspImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.OleFileIO"
+2016-04-21T16:23:32: Analyzing "PIL.PaletteFile"
+2016-04-21T16:23:32: Analyzing "PIL.PalmImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.PcdImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.PcfFontFile"
+2016-04-21T16:23:32: Analyzing "PIL.PcxImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.PdfImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.PixarImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.PngImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.PpmImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.PsdImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.PSDraw"
+2016-04-21T16:23:32: Analyzing "PIL.PyAccess"
+2016-04-21T16:23:32: Analyzing "PIL.SgiImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.SpiderImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.SunImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.TarIO"
+2016-04-21T16:23:32: Analyzing "PIL.TgaImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.TiffImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.TiffTags"
+2016-04-21T16:23:32: Analyzing "PIL.WalImageFile"
+2016-04-21T16:23:32: Analyzing "PIL.WebPImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.WmfImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.XbmImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.XpmImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL.XVThumbImagePlugin"
+2016-04-21T16:23:32: Analyzing "PIL._binary"
+2016-04-21T16:23:32: Analyzing "PIL._util"
+2016-04-21T16:23:32: Analyzing "PIL"
+2016-04-21T16:23:32: Starting analysis of 88 modules
+2016-04-21T16:24:18: Analysis complete
+2016-04-21T16:24:18: Saving group "F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL"
+2016-04-21T16:24:19: End of group "F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL"
+2016-04-21T16:24:21: Deleting 0 files

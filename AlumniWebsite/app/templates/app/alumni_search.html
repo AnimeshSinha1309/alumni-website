@@ -1,0 +1,47 @@
+{% extends "app/layout.html" %}
+
+{% block content %}
+
+<h2>{{ title }}.</h2>
+<p>Search our list to find all of St. Thomas' </p>
+
+<hr />
+
+<ul class="nav nav-pills">
+    <li role="presentation"><a href="{% url 'alumni/batches' %}">Batch Classification</a></li>
+    <li role="presentation"><a href="{% url 'alumni/circles' %}">Your Circles</a></li>
+    <li role="presentation"><a href="{% url 'alumni/distinguished' %}">Distinguished Alumni</a></li>
+    <li class="active" role="presentation"><a href="#">Search Alumni</a></li>
+</ul>
+<section>
+    <div class="form-group">
+        <form method="get" action="{% url 'alumni/search' %}" class="search-form form-inline">
+            <label for="alumniSearch" class="sr-only">Search Query</label>
+            <input name="q" id="alumniSearch" class="form-control" type="search" placeholder="Search here ..." />
+            <button type="submit" class="btn btn-default">Search</button>
+        </form>
+    </div>
+</section>
+<section>
+    <div class="people-list">
+        {% for person in results %}
+            <div class="row people-item">
+                <a href="/profile/{{ person.user.username }}">
+                    <div class="col-sm-1 col-xs-3">
+                        <img src="{{ person.picture.url }}" class="img-circle" height="40" width="40"/>
+                    </div>
+                    <div class="col-sm-3 col-xs-9 people-data">
+                        {{ person.user.first_name }} {{ person.user.last_name }}
+                    </div>
+                    <div class="col-sm-4 hidden-xs people-data">
+                        {{ person.user.email }}
+                    </div>
+                    <div class="col-sm-4 hidden-xs people-data">
+                        {{ person.jobtitle }}, {{ person.workplace }}
+                    </div>
+                </a>
+            </div>
+        {% endfor %}
+    </div>
+</section>
+{% endblock %}
