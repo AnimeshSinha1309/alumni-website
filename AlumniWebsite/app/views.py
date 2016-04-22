@@ -5,6 +5,7 @@ Definition of views.
 from django.shortcuts import render
 from django.http import HttpRequest
 from django.template import RequestContext
+from django.db.models import Q
 from datetime import datetime
 from app.models import Alumnus, User, Circle
 
@@ -89,12 +90,30 @@ def alumni_distinguished(request):
 def alumni_search(request):
     """Renders the alumni search page."""
     assert isinstance(request, HttpRequest)
+    fullresults = []
+    if request.method == 'GET':
+        results = []
+        fullquery = request.GET.get('q', '_NOSTRINGMATCHUNIQUEDATAFLAGPASS12093232176')
+        # Analyze each word of full query to get results
+        assert isinstance(fullquery, str)
+        for query in fullquery.split(' '):
+            users = User.objects.filter(Q(first_name__icontains=query) | Q(last_name__icontains=query))
+            alumni = Alumnus.objects.filter(Q(jobtitle__icontains=query) | Q(batch__iexact=query))
+            for user in users:
+                results.append(Alumnus.objects.get(user=user))
+            for index in range(len(alumni)):
+                results.append(alumni[index])
+        # Add results after checking for result redundancies
+        for result in results:
+            if result not in fullresults:
+                fullresults.append(result)
     return render(
         request,
         'app/alumni_search.html',
         {
             'title':'Search Alumni',
             'year':datetime.now().year,
+            'results':fullresults
         }
     )
 

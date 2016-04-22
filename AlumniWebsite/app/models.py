@@ -7,19 +7,6 @@ from django.contrib.auth.models import User
 
 # Models about user and profile data.
 
-class Workplace(models.Model):
-    TYPE_CHOICES = (
-        ('SCH', 'School'),
-        ('UNV', 'University'),
-        ('BSI', 'Business'),
-        ('HOS', 'Hospital'),
-        ('OTH', 'Others'),
-    )
-    def __str__(self):
-        return self.name
-    name = models.CharField(max_length=100)
-    type = models.CharField(max_length=3, choices=TYPE_CHOICES)
-
 class Alumnus(models.Model):
     class Meta:
         verbose_name_plural = "Alumni"
@@ -27,7 +14,7 @@ class Alumnus(models.Model):
         return self.user.username
     user = models.OneToOneField(User, on_delete=models.CASCADE)
     jobtitle = models.CharField(max_length=50)
-    workplace = models.ForeignKey(Workplace)
+    workplace = models.CharField(max_length=100)
     batch = models.IntegerField()
     picture = models.ImageField(upload_to='profile/', default='profile/_defaultavatar.png')
 

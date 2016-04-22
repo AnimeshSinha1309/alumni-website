@@ -94,3 +94,7 @@ div.profile-item {
     padding: 10px;
     font-size: 20px;
 }
+
+form.search-form {
+    padding: 50px;
+}
