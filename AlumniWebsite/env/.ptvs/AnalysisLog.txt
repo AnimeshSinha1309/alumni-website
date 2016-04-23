@@ -2479,3 +2479,10 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Micro
 2016-04-21T16:24:18: Saving group "F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL"
 2016-04-21T16:24:19: End of group "F:\Workspace\AlumniWebsite\AlumniWebsite\env\Lib\site-packages\PIL"
 2016-04-21T16:24:21: Deleting 0 files
+
+2016-04-23T17:34:15: Start analysis
+2016-04-23T17:34:15: [WARNING] Library was set explicitly - skipping path detection
+2016-04-23T17:34:15: IncludeModulesFromModulePath = win32com
+2016-04-23T17:34:26: Deleting 2 files
+2016-04-23T17:34:26: Deleting "F:\Workspace\AlumniWebsite\AlumniWebsite\env\.ptvs\_markerlib\_markerlib.idb"
+2016-04-23T17:34:26: Deleting "F:\Workspace\AlumniWebsite\AlumniWebsite\env\.ptvs\_markerlib\_markerlib.markers.idb"

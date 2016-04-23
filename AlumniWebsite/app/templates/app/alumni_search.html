@@ -13,9 +13,12 @@
     <li role="presentation"><a href="{% url 'alumni/distinguished' %}">Distinguished Alumni</a></li>
     <li class="active" role="presentation"><a href="#">Search Alumni</a></li>
 </ul>
+
+<hr />
+
 <section>
     <div class="form-group">
-        <form method="get" action="{% url 'alumni/search' %}" class="search-form form-inline">
+        <form method="get" action="{% url 'alumni/search' %}" class="form-inline" id="search-form">
             <label for="alumniSearch" class="sr-only">Search Query</label>
             <input name="q" id="alumniSearch" class="form-control" type="search" placeholder="Search here ..." />
             <button type="submit" class="btn btn-default">Search</button>

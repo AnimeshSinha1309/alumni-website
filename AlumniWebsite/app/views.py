@@ -6,6 +6,7 @@ from django.shortcuts import render
 from django.http import HttpRequest
 from django.template import RequestContext
 from django.db.models import Q
+from django.contrib.auth.decorators import login_required
 from datetime import datetime
 from app.models import Alumnus, User, Circle
 
@@ -16,10 +17,11 @@ def home(request):
         request,
         'app/index.html',
         {
-            'title':'Home Page',
-            'year':datetime.now().year,
+            'title': 'Home Page',
+            'year': datetime.now().year,
         }
     )
+
 
 def events(request):
     """Renders the events page."""
@@ -28,12 +30,14 @@ def events(request):
         request,
         'app/events.html',
         {
-            'title':'Events Calender',
-            'year':datetime.now().year,
+            'title': 'Events Calender',
+            'year': datetime.now().year,
         }
     )
 
+
 ## Alumni Features and Profiles
+
 
 def alumni_batches(request):
     """Renders the alumni batch listing."""
@@ -42,11 +46,12 @@ def alumni_batches(request):
         request,
         'app/alumni_batches.html',
         {
-            'title':'Alumni List',
-            'batches':range(2016, 1981, -1),
-            'year':datetime.now().year,
+            'title': 'Alumni List',
+            'batches': range(2016, 1981, -1),
+            'year': datetime.now().year,
         }
     )
+
 
 def alumni_batchlist(request, batch):
     """Renders the alumni batch listing."""
@@ -55,12 +60,13 @@ def alumni_batchlist(request, batch):
         request,
         'app/alumni_batchlist.html',
         {
-            'title':'Alumni List',
-            'batch':batch,
-            'people':Alumnus.objects.filter(batch=int(batch)),
-            'year':datetime.now().year,
+            'title': 'Alumni List',
+            'batch': batch,
+            'people': Alumnus.objects.filter(batch=int(batch)),
+            'year': datetime.now().year,
         }
     )
+
 
 def alumni_circles(request):
     """Renders the alumni listing for your circles."""
@@ -69,11 +75,12 @@ def alumni_circles(request):
         request,
         'app/alumni_circles.html',
         {
-            'title':'Your Alumni Circles',
-            'people':Circle.objects.filter(user=Alumnus.objects.get(user=request.user)).only('friend'),
-            'year':datetime.now().year,
+            'title': 'Your Alumni Circles',
+            'people': Circle.objects.filter(user=Alumnus.objects.get(user=request.user)).only('friend'),
+            'year': datetime.now().year,
         }
     )
+
 
 def alumni_distinguished(request):
     """Renders the distinguished alumni page."""
@@ -82,10 +89,11 @@ def alumni_distinguished(request):
         request,
         'app/alumni_distinguished.html',
         {
-            'title':'Our Distinguished Alumni',
-            'year':datetime.now().year,
+            'title': 'Our Distinguished Alumni',
+            'year': datetime.now().year,
         }
     )
+
 
 def alumni_search(request):
     """Renders the alumni search page."""
@@ -111,37 +119,45 @@ def alumni_search(request):
         request,
         'app/alumni_search.html',
         {
-            'title':'Search Alumni',
-            'year':datetime.now().year,
-            'results':fullresults
+            'title': 'Search Alumni',
+            'year': datetime.now().year,
+            'results': fullresults
         }
     )
 
+
+@login_required
 def profile(request, username):
     """Renders personal profiles."""
     assert isinstance(request, HttpRequest)
     # Getting Alumnus to be displayed on profile
-    if(username == ""): person = request.user
-    else: person = User.objects.get(username=username)
+    if username == "":
+        person = request.user
+    else:
+        person = User.objects.get(username=username)
     displaying = Alumnus.objects.get(user=person)
     # Checking for Friendship status on Circles
-    befriender = Alumnus.objects.get(user = request.user)
-    befriendee = Alumnus.objects.get(user = person)
-    if(Circle.objects.filter(user=befriender, friend=befriendee).count() != 0): status = 'Friends'
-    elif(request.user == person): status = 'Self'
-    else: status = 'Unconnected'
+    befriender = Alumnus.objects.get(user=request.user)
+    befriendee = Alumnus.objects.get(user=person)
+    if Circle.objects.filter(user=befriender, friend=befriendee).count() != 0:
+        status = 'Friends'
+    elif request.user == person:
+        status = 'Self'
+    else:
+        status = 'Unconnected'
     # Rendering the view
     return render(
         request,
         'app/profile.html',
         {
-            'title':'Alumni List',
-            'data':displaying,
-            'friends':Circle.objects.filter(user=displaying).only('friend'),
-            'year':datetime.now().year,
-            'status':status,
+            'title': 'Alumni List',
+            'data': displaying,
+            'friends': Circle.objects.filter(user=displaying).only('friend'),
+            'year': datetime.now().year,
+            'status': status,
         }
     )
+
 
 def contribute(request):
     """Renders the contribute page."""
@@ -150,10 +166,11 @@ def contribute(request):
         request,
         'app/contribute.html',
         {
-            'title':'Contribute to the School',
-            'year':datetime.now().year,
+            'title': 'Contribute to the School',
+            'year': datetime.now().year,
         }
     )
+
 
 def contact(request):
     """Renders the contact page."""
@@ -162,11 +179,12 @@ def contact(request):
         request,
         'app/contact.html',
         {
-            'title':'Contact',
-            'message':'Your contact page.',
-            'year':datetime.now().year,
+            'title': 'Contact',
+            'message': 'Your contact page.',
+            'year': datetime.now().year,
         }
     )
+
 
 def school(request):
     """Renders the school page."""

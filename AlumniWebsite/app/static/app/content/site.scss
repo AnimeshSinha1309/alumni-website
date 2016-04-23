@@ -1,0 +1,101 @@
+$screen-xs-max: 768px;
+
+body {
+    padding: 50px 0px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* styles for validation helpers */
+.field-validation-error {
+    color: #b94a48;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+/* Styles for objects on alumnus page */
+
+div.batch-link {
+    padding: 15px;
+    text-align: center;
+
+    a {
+        display: block;
+        padding: 50px 0px;
+        background-color: #333333;
+        color: white;
+        font-size: 40px;
+        transition-duration: 0.5s;
+        width: 100%;
+
+        &:hover {
+          background-color: black;
+          text-decoration: none;
+        }
+
+        @media screen and (max-width:$screen-xs-max) {
+            padding: 20px 0px;
+        }
+    }
+}
+
+div.people-list {
+    padding: 10px;
+
+    div.people-item {
+        border-top: thin solid;
+        border-color: #DDDDDD;
+        padding: 20px;
+
+        div.people-data {
+            padding: 10px;
+        }
+    }
+}
+
+div.profile-item {
+    padding: 10px;
+    font-size: 20px;
+}
+
+<<<<<<< HEAD
+form#search-form {
+    padding: 25px;
+
+    input[type="search"] {
+        width: 100%;
+    }
+=======
+form.search-form {
+    padding: 50px;
+>>>>>>> 149db65a140fab9c5ce356216a8b5e0a583ad04e
+}
