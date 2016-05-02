@@ -1,7 +1,7 @@
 $screen-xs-max: 768px;
 
 body {
-    padding: 50px 0px;
+    padding: 100px 0px;
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -87,15 +87,10 @@ div.profile-item {
     font-size: 20px;
 }
 
-<<<<<<< HEAD
 form#search-form {
     padding: 25px;
 
     input[type="search"] {
         width: 100%;
     }
-=======
-form.search-form {
-    padding: 50px;
->>>>>>> 149db65a140fab9c5ce356216a8b5e0a583ad04e
 }

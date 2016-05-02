@@ -54,6 +54,9 @@
     <Folder Include="app\static\app\" />
     <Folder Include="app\static\app\content\" />
     <Folder Include="app\static\app\fonts\" />
+    <Folder Include="app\static\app\images\" />
+    <Folder Include="app\static\app\images\gallery\" />
+    <Folder Include="app\static\app\images\gallery\demo\" />
     <Folder Include="app\static\app\scripts\" />
     <Folder Include="app\templates\" />
     <Folder Include="app\templates\app\" />
@@ -62,6 +65,10 @@
     <Folder Include="media\profile\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\static\app\content\paperswatch.min.css" />
+    <Content Include="app\static\app\content\site.scss" />
+    <Content Include="app\static\app\images\gallery\demo\demohome1.jpg" />
+    <Content Include="app\static\app\images\gallery\demo\demohome2.jpg" />
     <Content Include="app\templates\app\alumni_circles.html" />
     <Content Include="app\templates\app\alumni_distinguished.html" />
     <Content Include="app\templates\app\alumni_search.html" />
