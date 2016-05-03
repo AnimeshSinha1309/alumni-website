@@ -1,11 +1,10 @@
 logger
-stdlib_pkgs
 pkg_resources
 absolute_import
 logging
 freeze
 InstallRequirement
-freeze_excludes
+canonicalize_name
 get_installed_distributions
 pip
 re

@@ -1,5 +1,6 @@
 orig_stdout
 reinit
+wrap_stream
 wrapped_stdout
 wrapped_stderr
 deinit
@@ -7,7 +8,8 @@ atexit
 reset_all
 init
 atexit_done
+colorama_text
 AnsiToWin32
-wrap_stream
+contextlib
 sys
 orig_stderr

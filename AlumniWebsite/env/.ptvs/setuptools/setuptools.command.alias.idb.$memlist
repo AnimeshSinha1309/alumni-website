@@ -1,7 +1,8 @@
+format_alias
 DistutilsOptionError
 config_file
 shquote
 alias
-format_alias
+map
 edit_config
 option_base

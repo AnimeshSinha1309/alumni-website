@@ -1,7 +1,8 @@
 namedtuple
-url_attrs
-LocationParseError
+absolute_import
 get_host
+split_first
 Url
 parse_url
-split_first
+url_attrs
+LocationParseError

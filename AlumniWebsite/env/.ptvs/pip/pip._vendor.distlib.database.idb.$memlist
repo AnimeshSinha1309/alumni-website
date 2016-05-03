@@ -10,9 +10,10 @@ __all__
 write_exports
 resources
 EggInfoDistribution
-DistlibException
+get_scheme
 COMMANDS_FILENAME
 Metadata
+WHEEL_METADATA_FILENAME
 base64
 _Cache
 cached_property
@@ -31,8 +32,8 @@ BaseInstalledDistribution
 parse_requirement
 posixpath
 logging
-get_scheme
 Distribution
+DistlibException
 read_exports
 os
 CSVReader

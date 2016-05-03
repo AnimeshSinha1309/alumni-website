@@ -21,7 +21,9 @@ api
 post
 certs
 __license__
+FileModeWarning
 auth
+warnings
 options
 get
 put

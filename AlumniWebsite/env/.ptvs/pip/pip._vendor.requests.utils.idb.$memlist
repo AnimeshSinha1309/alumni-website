@@ -1,4 +1,4 @@
-dotted_netmask
+FileModeWarning
 is_py2
 cgi
 collections
@@ -11,7 +11,8 @@ default_user_agent
 proxy_bypass
 to_key_val_list
 struct
-_null3
+get_auth_from_url
+select_proxy
 stream_decode_response_unicode
 basestring
 dict_from_cookiejar
@@ -31,7 +32,7 @@ default_headers
 CaseInsensitiveDict
 certs
 urlparse
-get_environ_proxies
+dotted_netmask
 re
 NETRC_FILES
 OrderedDict
@@ -46,7 +47,7 @@ prepend_scheme_if_needed
 builtin_str
 sys
 dict_to_sequence
-get_auth_from_url
+_null3
 get_unicode_from_response
 str
 unquote_unreserved
@@ -63,7 +64,8 @@ __version__
 urlunparse
 urldefragauth
 to_native_string
-should_bypass_proxies
 parse_header_links
+should_bypass_proxies
+get_environ_proxies
 parse_list_header
 guess_filename

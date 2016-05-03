@@ -3,4 +3,4 @@ filesys_decode
 decompose
 sys
 unicodedata
-decoded_string
+six

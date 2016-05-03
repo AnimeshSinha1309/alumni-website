@@ -1,4 +1,5 @@
-encode_multipart_formdata
+absolute_import
 urlencode
-RequestMethods
 __all__
+encode_multipart_formdata
+RequestMethods

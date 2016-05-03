@@ -1,12 +1,13 @@
 sdist
 _default_revctrl
-os
+six
 log
-PY3
+glob
+orig
 READMES
 walk_revctrl
 pkg_resources
-glob
+os
 cs_path_exists
-orig
+io
 sys

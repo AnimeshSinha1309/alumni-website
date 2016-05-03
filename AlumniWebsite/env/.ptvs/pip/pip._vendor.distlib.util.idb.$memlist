@@ -1,5 +1,5 @@
-ExportEntry
 raw_input
+ExportEntry
 RELOP_IDENT
 ENTRY_RE
 ServerProxy
@@ -7,7 +7,7 @@ Container
 HTTPS
 cached_property
 EXTRA_IDENT
-RICH_GLOB
+textwrap
 CONSTRAINTS
 BaseConfigurator
 parse_requirement
@@ -21,7 +21,7 @@ httplib
 get_executable
 HTTP
 Progress
-path_to_cache_dir
+std_iglob
 proceed
 in_venv
 split_filename
@@ -53,7 +53,7 @@ get_export_entry
 FileOperator
 UNITS
 get_resources_dests
-cache_from_source
+ensure_slash
 URLError
 splittype
 write_exports
@@ -67,12 +67,14 @@ DIRECT_REF
 CertificateError
 RELOP_IDENT_RE
 Transport
+RICH_GLOB
 valid_ident
 read_exports
 HTTPHandler
 REQUIREMENT
 RELOP
 REQUIREMENT_RE
+_external_data_base_url
 get_package_data
 zip_dir
 unarchive
@@ -83,7 +85,7 @@ time
 Sequencer
 DistlibException
 text_type
-std_iglob
+path_to_cache_dir
 HTTPSOnlyHandler
 sys
 parse_credentials
@@ -98,6 +100,7 @@ EXTRA_LIST
 PROJECT_NAME_AND_VERSION
 CSVBase
 ZipFile
+urljoin
 tempfile
 re
 chdir
@@ -108,7 +111,7 @@ ARCHIVE_EXTENSIONS
 CSVWriter
 subprocess
 parse_name_and_version
-ensure_slash
+cache_from_source
 get_cache_base
 EventMixin
 logger

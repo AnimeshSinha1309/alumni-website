@@ -84,7 +84,10 @@ div.people-list {
 
 div.profile-item {
     padding: 10px;
-    font-size: 20px;
+
+    @media screen and (min-width:$screen-xs-max) {
+        font-size: large;
+    }
 }
 
 form#search-form {
@@ -93,4 +96,36 @@ form#search-form {
     input[type="search"] {
         width: 100%;
     }
+}
+
+/* Styles for Objects on Events Page */
+
+div.event-xmega {
+    background-color: #2196f3;
+    padding: 20px;
+    color: white;
+
+    @media screen and (min-width:$screen-xs-max) {
+        font-size: large;
+    }
+
+    @media screen and (max-width:$screen-xs-max) {
+        padding: 10px;
+    }
+
+    h1, h2, h3, h4, h5, h6, strong {
+        color: white;
+    }
+
+    div.image-set {
+        margin: 10px 0px 10px;
+
+        div.row img {
+            width: 31%;
+        }
+    }
+}
+
+.eventcard-container {
+    padding: 20px 10px 20px 10px;
 }

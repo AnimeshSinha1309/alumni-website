@@ -60,19 +60,35 @@ div.people-list {
       padding: 10px; }
 
 div.profile-item {
-  padding: 10px;
-  font-size: 20px; }
-<<<<<<< HEAD
+  padding: 10px; }
+  @media screen and (min-width: 768px) {
+    div.profile-item {
+      font-size: large; } }
 
 form#search-form {
   padding: 25px; }
   form#search-form input[type="search"] {
     width: 100%; }
 
-=======
+/* Styles for Objects on Events Page */
+div.event-xmega {
+  background-color: #2196f3;
+  padding: 20px;
+  color: white; }
+  @media screen and (min-width: 768px) {
+    div.event-xmega {
+      font-size: large; } }
+  @media screen and (max-width: 768px) {
+    div.event-xmega {
+      padding: 10px; } }
+  div.event-xmega h1, div.event-xmega h2, div.event-xmega h3, div.event-xmega h4, div.event-xmega h5, div.event-xmega h6, div.event-xmega strong {
+    color: white; }
+  div.event-xmega div.image-set {
+    margin: 10px 0px 10px; }
+    div.event-xmega div.image-set div.row img {
+      width: 31%; }
 
-form.search-form {
-  padding: 50px; }
+.eventcard-container {
+  padding: 20px 10px 20px 10px; }
 
->>>>>>> 149db65a140fab9c5ce356216a8b5e0a583ad04e
 /*# sourceMappingURL=site.css.map */

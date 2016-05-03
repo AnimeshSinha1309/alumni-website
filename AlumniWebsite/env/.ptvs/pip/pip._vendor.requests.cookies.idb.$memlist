@@ -5,8 +5,8 @@ morsel_to_cookie
 copy
 urlparse
 collections
-_copy_cookie_jar
 extract_cookies_to_jar
+calendar
 RequestsCookieJar
 get_cookie_header
 merge_cookies
@@ -14,6 +14,7 @@ cookielib
 Morsel
 create_cookie
 MockResponse
+_copy_cookie_jar
 threading
 cookiejar_from_dict
 urlunparse

@@ -1,9 +1,10 @@
+log
+ResponseError
+ProtocolError
+absolute_import
+logging
 Retry
 six
-ProtocolError
-ResponseError
-logging
-log
 ConnectTimeoutError
 time
 MaxRetryError

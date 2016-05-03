@@ -2,10 +2,11 @@ _get_unpatched
 msvc9_support
 re
 Library
-_Extension
+distutils
 _have_cython
+map
 functools
 Extension
 have_pyrex
 sys
-distutils
+_Extension

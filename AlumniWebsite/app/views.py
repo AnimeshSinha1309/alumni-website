@@ -7,8 +7,8 @@ from django.http import HttpRequest
 from django.template import RequestContext
 from django.db.models import Q
 from django.contrib.auth.decorators import login_required
-from datetime import datetime
-from app.models import Alumnus, User, Circle
+from datetime import datetime, date
+from app.models import Alumnus, User, Circle, Event
 
 def home(request):
     """Renders the home page."""
@@ -25,6 +25,10 @@ def home(request):
 
 def events(request):
     """Renders the events page."""
+    future_events = Event.objects.filter(date__gte=date.today()).order_by('date')
+    past_events = Event.objects.filter(date__lt=date.today()).order_by('-date')
+    if future_events: main_event = future_events[0]
+    else: main_event = past_event[0]
     assert isinstance(request, HttpRequest)
     return render(
         request,
@@ -32,6 +36,9 @@ def events(request):
         {
             'title': 'Events Calender',
             'year': datetime.now().year,
+            'main_event': main_event,
+            'future_events': future_events[1:],
+            'past_events': past_events,
         }
     )
 

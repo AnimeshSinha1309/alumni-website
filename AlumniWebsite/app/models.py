@@ -69,6 +69,8 @@ class Circle(models.Model):
 
 
 class Event(models.Model):
+    def __str__(self):
+        return self.name
     name = models.CharField(max_length=50)
     subtitle = models.CharField(max_length=100)
     description = models.TextField(max_length=2500)

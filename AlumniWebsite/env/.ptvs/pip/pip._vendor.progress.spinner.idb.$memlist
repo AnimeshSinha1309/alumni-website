@@ -1,7 +1,6 @@
-WriteMixin
-Infinite
-unicode_literals
-PieSpinner
-Spinner
 LineSpinner
 MoonSpinner
+Spinner
+Infinite
+PieSpinner
+WriteMixin
