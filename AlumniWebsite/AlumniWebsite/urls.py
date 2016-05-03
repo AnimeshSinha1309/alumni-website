@@ -25,6 +25,7 @@ urlpatterns = [
     url(r'^contribute/$', app.views.contribute, name='contribute'),
     url(r'^contact/$', app.views.contact, name='contact'),
     url(r'^school/$', app.views.school, name='school'),
+    url(r'^team/$', app.views.team, name='team'),
     # Alumni listings and profiles
     url(r'^alumni/batch/$', app.views.alumni_batches, name='alumni/batches'),
     url(r'^alumni/circles/$', app.views.alumni_circles, name='alumni/circles'),

@@ -63,6 +63,7 @@ class Circle(models.Model):
     user = models.ForeignKey(Alumnus, related_name='alumnus_user')
     friend = models.ForeignKey(Alumnus, related_name='alumnus_friend')
     type = models.CharField(max_length=2, choices=FRIENDSHIP_CHOICES)
+    unique_together = ((user, friend),)
 
 
 # Models about event and program data

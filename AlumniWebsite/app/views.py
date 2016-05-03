@@ -43,6 +43,19 @@ def events(request):
     )
 
 
+def team(request):
+    """Renders the home page."""
+    assert isinstance(request, HttpRequest)
+    return render(
+        request,
+        'app/team.html',
+        {
+            'title': 'Our Team',
+            'year': datetime.now().year,
+        }
+    )
+
+
 ## Alumni Features and Profiles
 
 
@@ -75,6 +88,7 @@ def alumni_batchlist(request, batch):
     )
 
 
+@login_required
 def alumni_circles(request):
     """Renders the alumni listing for your circles."""
     assert isinstance(request, HttpRequest)
@@ -186,8 +200,8 @@ def contact(request):
         request,
         'app/contact.html',
         {
-            'title': 'Contact',
-            'message': 'Your contact page.',
+            'title': 'Contact Us',
+            'message': 'The Alumni Association',
             'year': datetime.now().year,
         }
     )

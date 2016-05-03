@@ -77,6 +77,7 @@
     <Content Include="app\templates\app\alumni_search.html" />
     <Content Include="app\templates\app\alumni_batches.html" />
     <Content Include="app\templates\app\alumni_batchlist.html" />
+    <Content Include="app\templates\app\team.html" />
     <Content Include="app\templates\app\events.html" />
     <Content Include="app\templates\app\contribute.html" />
     <Content Include="app\templates\app\profile.html" />
