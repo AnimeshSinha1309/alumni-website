@@ -72,11 +72,13 @@
     <Content Include="app\static\app\images\gallery\demo\event1-1.jpg" />
     <Content Include="app\static\app\images\gallery\demo\event1-2.jpg" />
     <Content Include="app\static\app\images\gallery\demo\event1-3.jpg" />
+    <Content Include="app\static\app\images\defaultavatar.png" />
     <Content Include="app\templates\app\alumni_circles.html" />
     <Content Include="app\templates\app\alumni_distinguished.html" />
     <Content Include="app\templates\app\alumni_search.html" />
     <Content Include="app\templates\app\alumni_batches.html" />
     <Content Include="app\templates\app\alumni_batchlist.html" />
+    <Content Include="app\templates\app\profile_edit.html" />
     <Content Include="app\templates\app\team.html" />
     <Content Include="app\templates\app\events.html" />
     <Content Include="app\templates\app\contribute.html" />

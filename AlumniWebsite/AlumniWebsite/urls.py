@@ -33,6 +33,7 @@ urlpatterns = [
     url(r'^alumni/search/$', app.views.alumni_search, name='alumni/search'),
     url(r'^alumni/batch/(?P<batch>[0-9]{4})/$', app.views.alumni_batchlist),
     url(r'^profile/(?P<username>\w*)/?$', app.views.profile),
+    url(r'^settings/profile/edit/$', app.views.profile_edit, name='profile/edit'),
     url(r'^actions/befriend/(?P<username>\w*)/?$', app.actions.befriend),
     url(r'^actions/unfriend/(?P<username>\w*)/?$', app.actions.unfriend),
     # Authorization and Administration

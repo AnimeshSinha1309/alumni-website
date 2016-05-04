@@ -17,8 +17,8 @@
                     Remove from Friends List
                 </a>
             {% elif status == 'Self' %}
-                <a href="#" class="btn btn-primary">
-                    Cant do much on your Profile
+                <a href="{% url 'profile/edit' %}" class="btn btn-primary">
+                    Edit your Profile
                 </a>
             {% endif %}
         </div>

@@ -2,13 +2,15 @@
 Definition of views.
 """
 
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.http import HttpRequest
 from django.template import RequestContext
 from django.db.models import Q
 from django.contrib.auth.decorators import login_required
 from datetime import datetime, date
 from app.models import Alumnus, User, Circle, Event
+from app.forms import ProfileEditingForm
+
 
 def home(request):
     """Renders the home page."""
@@ -176,6 +178,35 @@ def profile(request, username):
             'friends': Circle.objects.filter(user=displaying).only('friend'),
             'year': datetime.now().year,
             'status': status,
+        }
+    )
+
+
+@login_required
+def profile_edit(request):
+    """Renders personal profiles."""
+    assert isinstance(request, HttpRequest)
+    profile = Alumnus.objects.get(user=request.user)
+    if request.method == 'POST':
+        form = ProfileEditingForm(request.POST)
+        if form.is_valid():
+            profile.phone_work = form.cleaned_data['phone_work']
+            profile.save()
+            redirect('/')
+    else:
+        form = ProfileEditingForm(initial={'fname':request.user.first_name, 'lname':request.user.last_name,
+                'jobtitle':profile.jobtitle, 'workplace':profile.workplace,'email':request.user.email,
+                'birth_date':profile.birth_date, 'current_address':profile.current_address,
+                'permanent_address':profile.permanent_address, 'phone_mobile':profile.phone_mobile, 
+                'phone_home':profile.phone_home, 'phone_work':profile.phone_work, 'picture':profile.picture,
+                'relationship_status':profile.relationship_status})
+    return render(
+        request,
+        'app/profile_edit.html',
+        {
+            'form': form,
+            'title': 'Edit Your Profile',
+            'year': datetime.now().year,
         }
     )
 
