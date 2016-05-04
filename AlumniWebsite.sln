@@ -5,6 +5,16 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AlumniWebsite", "AlumniWebsite\AlumniWebsite.pyproj", "{72446184-8578-444E-91FE-8591F5B93E65}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AdobeResources", "AdobeResources", "{93CF1C99-1CC3-4A9C-8DC1-B9932941E3A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "branding", "branding", "{AB1D5BE6-AC24-4CA1-9253-FC562440BE4A}"
+	ProjectSection(SolutionItems) = preProject
+		AdobeResources\branding\favicon.ico = AdobeResources\branding\favicon.ico
+		AdobeResources\branding\logo-small.ai = AdobeResources\branding\logo-small.ai
+		AdobeResources\branding\logo-small.png = AdobeResources\branding\logo-small.png
+		AdobeResources\branding\logo-small.svg = AdobeResources\branding\logo-small.svg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +28,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB1D5BE6-AC24-4CA1-9253-FC562440BE4A} = {93CF1C99-1CC3-4A9C-8DC1-B9932941E3A5}
 	EndGlobalSection
 EndGlobal

@@ -72,7 +72,7 @@ form#search-form {
 
 /* Styles for Settings Page */
 form textarea.textarea-selector.form-control {
-    max-height: 100px; }
+  max-height: 100px; }
 
 /* Styles for Objects on Events Page */
 div.event-xmega {
@@ -94,5 +94,20 @@ div.event-xmega {
 
 .eventcard-container {
   padding: 20px 10px 20px 10px; }
+
+/* Styles for Team Page */
+div.team-developers, div.team-committee {
+  text-align: center;
+  padding-top: 20px; }
+  div.team-developers div, div.team-committee div {
+    padding: 20px;
+    text-align: center; }
+
+/* Styles for School Page */
+.font-large {
+  font-size: large; }
+
+.carousel-inner {
+  text-align: center; }
 
 /*# sourceMappingURL=site.css.map */

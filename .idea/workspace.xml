@@ -2,715 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99c7ef6d-b0fa-4634-a0b6-80d4709fda68" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.BdfFontFile.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.BdfFontFile.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.BmpImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.BmpImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.BufrStubImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.BufrStubImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.CurImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.CurImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.DcxImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.DcxImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.DdsImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.DdsImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.EpsImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.EpsImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.FitsStubImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.FitsStubImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.FliImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.FliImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.FpxImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.FpxImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.FtexImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.FtexImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.GbrImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.GbrImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.GdImageFile.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.GdImageFile.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.GifImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.GifImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.GribStubImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.GribStubImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.Hdf5StubImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.Hdf5StubImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.IcnsImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.IcnsImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.IcoImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.IcoImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.Image.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.Image.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageCms.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageCms.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageColor.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageColor.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageDraw.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageDraw.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageDraw2.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageDraw2.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageFile.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageFile.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageFilter.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageFilter.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageFont.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageFont.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageGrab.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageGrab.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageMath.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageMath.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageMode.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageMode.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageMorph.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageMorph.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageOps.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageOps.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImagePalette.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImagePalette.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImagePath.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImagePath.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageQt.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageQt.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageShow.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageShow.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageWin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImageWin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImtImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.ImtImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.IptcImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.IptcImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.Jpeg2KImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.Jpeg2KImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.JpegImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.JpegImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.MicImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.MicImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.MpoImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.MpoImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.OleFileIO.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.OleFileIO.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.PSDraw.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.PSDraw.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.PcxImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.PcxImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.PdfImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.PdfImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.PngImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.PngImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.PpmImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.PpmImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.PsdImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.PsdImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.PyAccess.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.PyAccess.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.SpiderImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.SpiderImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.TiffImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.TiffImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.TiffTags.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.TiffTags.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.WebPImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.WebPImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.WmfImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.WmfImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.XbmImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.XbmImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.XpmImagePlugin.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.XpmImagePlugin.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._binary.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._binary.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imaging.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imaging.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingcms.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingcms.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingft.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingft.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingmath.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingmath.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingmorph.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingmorph.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingtk.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingtk.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._util.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._util.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._webp.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._webp.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.features.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL.features.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_ast.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_ast.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_bisect.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_bisect.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_cn.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_cn.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_hk.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_hk.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_iso2022.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_iso2022.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_jp.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_jp.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_kr.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_kr.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_tw.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_tw.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_collections.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_collections.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_csv.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_csv.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_datetime.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_datetime.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_functools.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_functools.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_heapq.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_heapq.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_imp.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_imp.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_io.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_io.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_json.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_json.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_locale.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_locale.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_lsprof.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_lsprof.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_md5.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_md5.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_multibytecodec.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_multibytecodec.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_opcode.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_opcode.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_operator.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_operator.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_pickle.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_pickle.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_random.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_random.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_sha1.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_sha1.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_sha256.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_sha256.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_sha512.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_sha512.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_signal.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_signal.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_sre.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_sre.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_stat.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_stat.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_string.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_string.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_struct.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_struct.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_symtable.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_symtable.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_thread.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_thread.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_tracemalloc.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_tracemalloc.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_warnings.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_warnings.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_weakref.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_weakref.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_winapi.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_winapi.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/array.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/array.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/atexit.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/atexit.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/audioop.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/audioop.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/binascii.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/binascii.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/builtins.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/builtins.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/cmath.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/cmath.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/db.sqlite3" afterPath="$PROJECT_DIR$/AlumniWebsite/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.conf.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.conf.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.checks.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.checks.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.filters.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.filters.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.helpers.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.helpers.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.models.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.models.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.options.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.options.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.sites.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.sites.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.templatetags.admin_urls.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.templatetags.admin_urls.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.templatetags.log.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.templatetags.log.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.utils.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.utils.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.views.main.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.views.main.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.widgets.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admin.widgets.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admindocs.utils.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.admindocs.utils.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.auth.hashers.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.auth.hashers.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.auth.management.commands.createsuperuser.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.auth.management.commands.createsuperuser.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.auth.management.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.auth.management.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.auth.password_validation.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.auth.password_validation.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.auth.views.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.auth.views.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.contenttypes.fields.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.contenttypes.fields.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.flatpages.templatetags.flatpages.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.flatpages.templatetags.flatpages.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.db.backends.spatialite.schema.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.db.backends.spatialite.schema.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.db.models.fields.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.db.models.fields.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.db.models.functions.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.db.models.functions.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.gdal.geometries.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.gdal.geometries.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.gdal.libgdal.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.gdal.libgdal.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.gdal.prototypes.generation.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.gdal.prototypes.generation.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.gdal.raster.source.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.gdal.raster.source.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.gdal.srs.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.gdal.srs.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.geoip.base.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.geoip.base.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.geoip2.base.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.geoip2.base.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.geos.geometry.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.geos.geometry.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.geos.libgeos.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.geos.libgeos.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.geos.polygon.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.geos.polygon.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.geos.prototypes.io.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.geos.prototypes.io.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.geos.prototypes.misc.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.geos.prototypes.misc.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.geos.prototypes.threadsafe.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.geos.prototypes.threadsafe.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.maps.google.overlays.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.maps.google.overlays.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.measure.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.gis.measure.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.humanize.templatetags.humanize.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.humanize.templatetags.humanize.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.messages.storage.cookie.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.messages.storage.cookie.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.postgres.aggregates.statistics.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.postgres.aggregates.statistics.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.postgres.fields.array.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.postgres.fields.array.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.postgres.forms.hstore.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.postgres.forms.hstore.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.sessions.backends.base.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.sessions.backends.base.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.sessions.backends.file.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.sessions.backends.file.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.sitemaps.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.sitemaps.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.staticfiles.finders.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.staticfiles.finders.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.staticfiles.handlers.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.staticfiles.handlers.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.staticfiles.management.commands.collectstatic.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.staticfiles.management.commands.collectstatic.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.staticfiles.templatetags.staticfiles.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.staticfiles.templatetags.staticfiles.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.staticfiles.utils.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.staticfiles.utils.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.staticfiles.views.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.staticfiles.views.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.syndication.views.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.syndication.views.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.webdesign.templatetags.webdesign.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.contrib.webdesign.templatetags.webdesign.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.cache.backends.filebased.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.cache.backends.filebased.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.checks.messages.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.checks.messages.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.exceptions.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.exceptions.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.files.base.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.files.base.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.files.move.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.files.move.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.files.storage.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.files.storage.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.files.uploadedfile.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.files.uploadedfile.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.files.uploadhandler.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.files.uploadhandler.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.handlers.base.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.handlers.base.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.handlers.wsgi.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.handlers.wsgi.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.mail.backends.filebased.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.mail.backends.filebased.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.mail.message.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.mail.message.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.management.base.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.management.base.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.management.color.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.management.color.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.management.commands.compilemessages.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.management.commands.compilemessages.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.management.commands.diffsettings.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.management.commands.diffsettings.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.management.commands.makemessages.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.management.commands.makemessages.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.management.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.management.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.management.templates.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.management.templates.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.management.utils.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.management.utils.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.urlresolvers.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.core.urlresolvers.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.backends.base.schema.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.backends.base.schema.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.backends.mysql.base.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.backends.mysql.base.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.backends.sqlite3.operations.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.backends.sqlite3.operations.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.backends.utils.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.backends.utils.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.migrations.autodetector.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.migrations.autodetector.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.migrations.exceptions.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.migrations.exceptions.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.migrations.graph.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.migrations.graph.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.migrations.state.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.migrations.state.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.migrations.writer.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.migrations.writer.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.deletion.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.deletion.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.expressions.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.expressions.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.fields.files.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.fields.files.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.fields.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.fields.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.fields.related.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.fields.related.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.fields.related_descriptors.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.fields.related_descriptors.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.fields.related_lookups.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.fields.related_lookups.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.lookups.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.lookups.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.options.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.options.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.query.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.query.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.query_utils.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.query_utils.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.sql.compiler.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.sql.compiler.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.sql.query.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.models.sql.query.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.transaction.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.transaction.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.utils.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.db.utils.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.dispatch.dispatcher.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.dispatch.dispatcher.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.forms.boundfield.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.forms.boundfield.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.forms.fields.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.forms.fields.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.forms.models.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.forms.models.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.forms.widgets.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.forms.widgets.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.http.multipartparser.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.http.multipartparser.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.http.request.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.http.request.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.http.response.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.http.response.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.http.utils.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.http.utils.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.middleware.csrf.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.middleware.csrf.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.shortcuts.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.shortcuts.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.template.base.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.template.base.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.template.context.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.template.context.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.template.defaultfilters.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.template.defaultfilters.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.template.defaulttags.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.template.defaulttags.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.template.engine.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.template.engine.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.template.library.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.template.library.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.template.loader_tags.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.template.loader_tags.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.template.response.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.template.response.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.templatetags.cache.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.templatetags.cache.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.templatetags.future.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.templatetags.future.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.templatetags.i18n.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.templatetags.i18n.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.templatetags.l10n.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.templatetags.l10n.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.templatetags.static.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.templatetags.static.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.templatetags.tz.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.templatetags.tz.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.test.client.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.test.client.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.test.runner.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.test.runner.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.test.testcases.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.test.testcases.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils._os.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils._os.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.archive.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.archive.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.cache.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.cache.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.dateformat.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.dateformat.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.encoding.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.encoding.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.feedgenerator.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.feedgenerator.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.formats.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.formats.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.functional.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.functional.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.glob.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.glob.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.html.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.html.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.inspect.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.inspect.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.itercompat.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.itercompat.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.numberformat.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.numberformat.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.safestring.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.safestring.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.six.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.six.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.termcolors.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.termcolors.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.timezone.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.timezone.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.translation.trans_real.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.utils.translation.trans_real.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.views.debug.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.views.debug.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.views.static.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/django/django.views.static.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/errno.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/errno.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/faulthandler.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/faulthandler.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/gc.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/gc.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/itertools.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/itertools.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/marshal.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/marshal.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/math.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/math.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/mmap.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/mmap.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/msvcrt.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/msvcrt.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/nt.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/nt.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/parser.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/parser.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.__main__.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.__main__.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor._markerlib.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor._markerlib.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor._markerlib.markers.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor._markerlib.markers.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol._cmd.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol._cmd.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.adapter.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.adapter.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.cache.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.cache.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.caches.file_cache.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.caches.file_cache.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.caches.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.caches.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.compat.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.compat.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.controller.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.controller.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.filewrapper.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.filewrapper.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.heuristics.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.heuristics.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.serialize.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.serialize.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.wrapper.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.wrapper.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.ansi.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.ansi.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.ansitowin32.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.ansitowin32.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.initialise.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.initialise.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.win32.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.win32.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.winterm.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.winterm.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib._backport.shutil.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib._backport.shutil.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib._backport.sysconfig.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib._backport.sysconfig.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib._backport.tarfile.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib._backport.tarfile.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.compat.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.compat.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.database.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.database.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.index.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.index.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.locators.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.locators.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.manifest.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.manifest.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.markers.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.markers.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.metadata.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.metadata.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.resources.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.resources.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.scripts.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.scripts.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.util.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.util.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.version.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.version.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.wheel.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.wheel.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.filters._base.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.filters._base.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.filters.alphabeticalattributes.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.filters.alphabeticalattributes.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.filters.inject_meta_charset.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.filters.inject_meta_charset.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.filters.optionaltags.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.filters.optionaltags.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.html5parser.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.html5parser.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.ihatexml.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.ihatexml.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.inputstream.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.inputstream.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.sanitizer.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.sanitizer.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.serializer.htmlserializer.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.serializer.htmlserializer.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.tokenizer.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.tokenizer.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.treebuilders._base.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.treebuilders._base.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.treebuilders.etree_lxml.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.treebuilders.etree_lxml.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.treewalkers._base.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.treewalkers._base.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.treewalkers.dom.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.treewalkers.dom.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.treewalkers.genshistream.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.treewalkers.genshistream.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.treewalkers.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.treewalkers.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.treewalkers.lxmletree.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.treewalkers.lxmletree.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.trie.datrie.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.trie.datrie.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.trie.py.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.trie.py.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.utils.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.html5lib.utils.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.ipaddress.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.ipaddress.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.linklockfile.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.linklockfile.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.mkdirlockfile.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.mkdirlockfile.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.pidlockfile.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.pidlockfile.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.sqlitelockfile.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.sqlitelockfile.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.symlinklockfile.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.symlinklockfile.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging._compat.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging._compat.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging._structures.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging._structures.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging.markers.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging.markers.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging.requirements.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging.requirements.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging.specifiers.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging.specifiers.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging.utils.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging.utils.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging.version.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging.version.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.pkg_resources.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.pkg_resources.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.bar.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.bar.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.counter.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.counter.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.helpers.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.helpers.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.spinner.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.spinner.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.pyparsing.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.pyparsing.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.adapters.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.adapters.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.api.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.api.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.auth.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.auth.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.certs.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.certs.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.cookies.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.cookies.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.exceptions.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.exceptions.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.hooks.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.hooks.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.models.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.models.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.chardistribution.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.chardistribution.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.charsetgroupprober.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.charsetgroupprober.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.charsetprober.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.charsetprober.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.compat.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.compat.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.cp949prober.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.cp949prober.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.escprober.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.escprober.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.eucjpprober.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.eucjpprober.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.euckrprober.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.euckrprober.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.euctwprober.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.euctwprober.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.jpcntx.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.jpcntx.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.mbcharsetprober.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.mbcharsetprober.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.mbcsgroupprober.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.mbcsgroupprober.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.sbcsgroupprober.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.sbcsgroupprober.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.sjisprober.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.sjisprober.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.universaldetector.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.chardet.universaldetector.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3._collections.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3._collections.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.connection.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.connection.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.connectionpool.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.connectionpool.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.contrib.appengine.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.contrib.appengine.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.contrib.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.contrib.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.contrib.ntlmpool.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.contrib.ntlmpool.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.contrib.pyopenssl.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.contrib.pyopenssl.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.exceptions.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.exceptions.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.fields.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.fields.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.filepost.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.filepost.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.packages.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.packages.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.packages.ordered_dict.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.packages.ordered_dict.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.packages.six.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.packages.six.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.poolmanager.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.poolmanager.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.request.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.request.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.response.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.response.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.connection.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.connection.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.request.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.request.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.response.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.response.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.retry.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.retry.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.ssl_.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.ssl_.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.timeout.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.timeout.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.url.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.url.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.sessions.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.sessions.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.status_codes.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.status_codes.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.structures.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.structures.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.utils.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.utils.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.retrying.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.retrying.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.six.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.six.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.basecommand.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.basecommand.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.baseparser.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.baseparser.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.cmdoptions.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.cmdoptions.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.completion.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.completion.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.download.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.download.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.freeze.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.freeze.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.hash.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.hash.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.help.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.help.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.install.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.install.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.list.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.list.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.search.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.search.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.show.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.show.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.uninstall.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.uninstall.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.wheel.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.wheel.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.compat.dictconfig.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.compat.dictconfig.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.compat.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.compat.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.compat.ordereddict.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.compat.ordereddict.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.download.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.download.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.exceptions.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.exceptions.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.index.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.index.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.locations.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.locations.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.operations.freeze.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.operations.freeze.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.pep425tags.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.pep425tags.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.req.req_file.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.req.req_file.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.req.req_install.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.req.req_install.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.req.req_set.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.req.req_set.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.req.req_uninstall.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.req.req_uninstall.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.appdirs.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.appdirs.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.build.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.build.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.deprecation.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.deprecation.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.encoding.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.encoding.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.filesystem.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.filesystem.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.hashes.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.hashes.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.logging.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.logging.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.outdated.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.outdated.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.ui.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.ui.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.vcs.bazaar.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.vcs.bazaar.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.vcs.git.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.vcs.git.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.vcs.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.vcs.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.vcs.mercurial.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.vcs.mercurial.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.vcs.subversion.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.vcs.subversion.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.wheel.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.wheel.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.packaging._compat.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.packaging._compat.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.packaging._structures.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.packaging._structures.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.packaging.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.packaging.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.packaging.markers.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.packaging.markers.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.packaging.specifiers.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.packaging.specifiers.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.packaging.utils.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.packaging.utils.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.packaging.version.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.packaging.version.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.pyparsing.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.pyparsing.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.six.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.six.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources.extern.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources.extern.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.archive_util.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.archive_util.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.alias.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.alias.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.bdist_egg.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.bdist_egg.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.bdist_rpm.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.bdist_rpm.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.build_ext.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.build_ext.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.build_py.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.build_py.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.develop.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.develop.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.easy_install.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.easy_install.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.egg_info.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.egg_info.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.install_egg_info.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.install_egg_info.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.install_lib.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.install_lib.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.install_scripts.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.install_scripts.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.rotate.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.rotate.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.sdist.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.sdist.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.setopt.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.setopt.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.test.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.test.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.upload_docs.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.upload_docs.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.depends.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.depends.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.dist.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.dist.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.extension.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.extension.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.lib2to3_ex.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.lib2to3_ex.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.msvc9_support.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.msvc9_support.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.package_index.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.package_index.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.py26compat.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.py26compat.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.py27compat.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.py27compat.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.py31compat.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.py31compat.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.sandbox.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.sandbox.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.ssl_support.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.ssl_support.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.unicode_utils.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.unicode_utils.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.utils.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.utils.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.version.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.version.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.windows_support.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.windows_support.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/sys.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/sys.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/time.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/time.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.archive.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.archive.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.bdist_wheel.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.bdist_wheel.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.decorator.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.decorator.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.egg2wheel.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.egg2wheel.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.install.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.install.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.metadata.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.metadata.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.pep425tags.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.pep425tags.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.pkginfo.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.pkginfo.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.signatures.djbec.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.signatures.djbec.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.signatures.ed25519py.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.signatures.ed25519py.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.signatures.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.signatures.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.signatures.keys.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.signatures.keys.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.test.test_install.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.test.test_install.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.test.test_keys.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.test.test_keys.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.tool.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.tool.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.util.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.util.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.wininst2wheel.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/wheel/wheel.wininst2wheel.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/winreg.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/winreg.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/xxsubtype.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/xxsubtype.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/zipimport.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/zipimport.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/zlib.idb" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/zlib.idb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/AlumniWebsite.pyproj" afterPath="$PROJECT_DIR$/AlumniWebsite/AlumniWebsite.pyproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/AnalysisLog.txt" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/AnalysisLog.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Animesh_Sinha.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Animesh_Sinha.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imaging.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imaging.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingcms.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingcms.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingft.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingft.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingmath.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingmath.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingmorph.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingmorph.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingtk.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._imagingtk.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._webp.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/PIL/PIL._webp.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_ast.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_ast.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_bisect.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_bisect.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_cn.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_cn.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_hk.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_hk.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_iso2022.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_iso2022.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_jp.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_jp.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_kr.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_kr.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_tw.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_codecs_tw.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_collections.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_collections.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_csv.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_csv.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_datetime.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_datetime.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_functools.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_functools.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_heapq.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_heapq.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_imp.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_imp.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_io.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_io.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_json.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_json.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_locale.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_locale.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_lsprof.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_lsprof.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_md5.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_md5.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_multibytecodec.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_multibytecodec.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_opcode.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_opcode.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_operator.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_operator.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_pickle.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_pickle.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_random.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_random.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_sha1.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_sha1.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_sha256.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_sha256.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_sha512.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_sha512.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_signal.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_signal.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_sre.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_sre.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_stat.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_stat.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_string.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_string.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_struct.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_struct.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_symtable.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_symtable.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_thread.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_thread.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_tracemalloc.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_tracemalloc.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_warnings.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_warnings.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_weakref.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_weakref.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_winapi.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/_winapi.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/app/admin.py" afterPath="$PROJECT_DIR$/AlumniWebsite/app/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/array.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/array.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/atexit.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/atexit.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/audioop.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/audioop.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/binascii.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/binascii.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/builtins.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/builtins.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/cmath.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/cmath.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/errno.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/errno.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/app/templates/app/events.html" afterPath="$PROJECT_DIR$/AlumniWebsite/app/templates/app/events.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/faulthandler.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/faulthandler.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/gc.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/gc.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/itertools.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/itertools.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/marshal.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/marshal.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/math.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/math.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/mmap.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/mmap.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/app/models.py" afterPath="$PROJECT_DIR$/AlumniWebsite/app/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/msvcrt.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/msvcrt.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/nt.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/nt.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/parser.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/parser.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.compat.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.compat.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.controller.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.controller.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.serialize.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.cachecontrol.serialize.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.ansitowin32.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.ansitowin32.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.initialise.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.initialise.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.win32.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.colorama.win32.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.database.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.database.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.metadata.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.metadata.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.scripts.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.scripts.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.util.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.distlib.util.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.pidlockfile.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.pidlockfile.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.symlinklockfile.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.lockfile.symlinklockfile.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.packaging.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.pkg_resources.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.pkg_resources.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.bar.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.bar.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.counter.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.counter.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.helpers.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.helpers.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.spinner.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.progress.spinner.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.adapters.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.adapters.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.auth.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.auth.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.cookies.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.cookies.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.exceptions.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.exceptions.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.models.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.models.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3._collections.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3._collections.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.connection.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.connection.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.connectionpool.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.connectionpool.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.contrib.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.contrib.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.contrib.ntlmpool.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.contrib.ntlmpool.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.contrib.pyopenssl.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.contrib.pyopenssl.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.exceptions.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.exceptions.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.fields.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.fields.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.filepost.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.filepost.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.packages.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.packages.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.poolmanager.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.poolmanager.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.request.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.request.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.response.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.response.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.connection.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.connection.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.request.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.request.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.response.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.response.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.retry.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.retry.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.ssl_.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.ssl_.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.timeout.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.timeout.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.url.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.packages.urllib3.util.url.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.utils.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.requests.utils.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.six.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip._vendor.six.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.basecommand.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.basecommand.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.cmdoptions.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.cmdoptions.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.freeze.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.freeze.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.install.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.install.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.list.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.list.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.wheel.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.commands.wheel.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.compat.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.compat.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.download.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.download.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.exceptions.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.exceptions.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.index.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.index.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.locations.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.locations.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.operations.freeze.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.operations.freeze.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.pep425tags.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.pep425tags.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.req.req_file.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.req.req_file.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.req.req_install.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.req.req_install.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.req.req_set.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.req.req_set.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.req.req_uninstall.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.req.req_uninstall.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.appdirs.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.appdirs.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.deprecation.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.deprecation.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.ui.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.utils.ui.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.vcs.bazaar.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.vcs.bazaar.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.vcs.git.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.vcs.git.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.vcs.mercurial.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.vcs.mercurial.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.wheel.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pip/pip.wheel.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.packaging.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources._vendor.packaging.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/pkg_resources/pkg_resources.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.alias.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.alias.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.bdist_egg.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.bdist_egg.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.build_py.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.build_py.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.develop.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.develop.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.easy_install.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.easy_install.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.egg_info.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.egg_info.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.install_egg_info.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.install_egg_info.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.rotate.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.rotate.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.sdist.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.sdist.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.setopt.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.setopt.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.test.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.test.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.upload_docs.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.command.upload_docs.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.depends.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.depends.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.dist.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.dist.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.extension.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.extension.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.package_index.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.package_index.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.sandbox.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.sandbox.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.ssl_support.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.ssl_support.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.unicode_utils.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.unicode_utils.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.version.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/setuptools/setuptools.version.idb.$memlist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/app/templates/app/index.html" afterPath="$PROJECT_DIR$/AlumniWebsite/app/templates/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/app/templates/app/layout.html" afterPath="$PROJECT_DIR$/AlumniWebsite/app/templates/app/layout.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/app/templates/app/loginpartial.html" afterPath="$PROJECT_DIR$/AlumniWebsite/app/templates/app/loginpartial.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/app/templates/app/school.html" afterPath="$PROJECT_DIR$/AlumniWebsite/app/templates/app/school.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/app/static/app/content/site.css.map" afterPath="$PROJECT_DIR$/AlumniWebsite/app/static/app/content/site.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/app/static/app/content/site.css" afterPath="$PROJECT_DIR$/AlumniWebsite/app/static/app/content/site.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/app/static/app/content/site.scss" afterPath="$PROJECT_DIR$/AlumniWebsite/app/static/app/content/site.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/sys.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/sys.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/time.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/time.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/app/views.py" afterPath="$PROJECT_DIR$/AlumniWebsite/app/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/web.debug.config" afterPath="$PROJECT_DIR$/AlumniWebsite/web.debug.config" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/winreg.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/winreg.idb.$memlist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/app/templates/app/team.html" afterPath="$PROJECT_DIR$/AlumniWebsite/app/templates/app/team.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/xxsubtype.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/xxsubtype.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/zipimport.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/zipimport.idb.$memlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/zlib.idb.$memlist" afterPath="$PROJECT_DIR$/AlumniWebsite/env/.ptvs/zlib.idb.$memlist" />
     </list>
     <ignored path="AlumniWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -733,35 +33,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="site.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/static/app/content/site.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1055" max-vertical-offset="1632">
-              <caret line="85" column="19" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
-              <folding>
-                <marker date="1462273602035" expanded="true" signature="1395:1462" placeholder="{...}" />
-                <marker date="1462273602035" expanded="true" signature="1586:1646" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="site.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/static/app/content/site.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18072289" vertical-offset="1374" max-vertical-offset="2227">
-              <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.8244406" vertical-offset="2309" max-vertical-offset="2890">
+              <caret line="164" column="1" selection-start-line="164" selection-start-column="1" selection-end-line="164" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="events.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/templates/app/events.html">
+      <file leaf-file-name="layout.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/templates/app/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.923077" vertical-offset="22" max-vertical-offset="629">
-              <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+            <state vertical-scroll-proportion="-12.423077" vertical-offset="68" max-vertical-offset="1122">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/templates/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="1564">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -790,12 +89,17 @@
         <option value="$PROJECT_DIR$/AlumniWebsite/app/actions.py" />
         <option value="$PROJECT_DIR$/AlumniWebsite/AlumniWebsite/settings.py" />
         <option value="$PROJECT_DIR$/AlumniWebsite/app/templates/app/contribute.html" />
-        <option value="$PROJECT_DIR$/AlumniWebsite/app/templates/app/index.html" />
         <option value="$PROJECT_DIR$/AlumniWebsite/app/templates/app/alumni_circles.html" />
         <option value="$PROJECT_DIR$/AlumniWebsite/app/templates/app/alumni_search.html" />
         <option value="$PROJECT_DIR$/AlumniWebsite/app/templates/app/profile.html" />
-        <option value="$PROJECT_DIR$/AlumniWebsite/app/static/app/content/site.css" />
         <option value="$PROJECT_DIR$/AlumniWebsite/app/templates/app/events.html" />
+        <option value="$PROJECT_DIR$/AlumniWebsite/app/static/app/content/site.css" />
+        <option value="$PROJECT_DIR$/AlumniWebsite/app/templates/app/school.html" />
+        <option value="$PROJECT_DIR$/AlumniWebsite/app/templates/app/team.html" />
+        <option value="$PROJECT_DIR$/AlumniWebsite/app/templates/app/loginpartial.html" />
+        <option value="$PROJECT_DIR$/AlumniWebsite/app/templates/app/index.html" />
+        <option value="$PROJECT_DIR$/AlumniWebsite/AlumniWebsite/urls.py" />
+        <option value="$PROJECT_DIR$/AlumniWebsite/app/templates/app/layout.html" />
         <option value="$PROJECT_DIR$/AlumniWebsite/app/static/app/content/site.scss" />
       </list>
     </option>
@@ -1125,9 +429,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1149,6 +450,9 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -1231,12 +535,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1254,9 +558,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1284,12 +588,33 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/static/app/content/site.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1055" max-vertical-offset="1632">
+          <caret line="85" column="19" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/static/app/content/site.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1374" max-vertical-offset="2227">
+          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/templates/app/events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="629">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/static/app/content/site.css">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1394">
           <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-          <folding>
-            <marker date="1462273602035" expanded="true" signature="1395:1462" placeholder="{...}" />
-            <marker date="1462273602035" expanded="true" signature="1586:1646" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1313,10 +638,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1309">
           <caret line="68" column="11" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
-          <folding>
-            <marker date="1462273602035" expanded="true" signature="1395:1462" placeholder="{...}" />
-            <marker date="1462273602035" expanded="true" signature="1586:1646" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1346,10 +668,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
           <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding>
-            <marker date="1462273602035" expanded="true" signature="1395:1462" placeholder="{...}" />
-            <marker date="1462273602035" expanded="true" signature="1586:1646" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1365,10 +684,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="1275">
           <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-          <folding>
-            <marker date="1462273602035" expanded="true" signature="1395:1462" placeholder="{...}" />
-            <marker date="1462273602035" expanded="true" signature="1586:1646" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1405,13 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="493">
           <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/templates/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="680">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1459,27 +768,89 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/templates/app/events.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.923077" vertical-offset="22" max-vertical-offset="629">
-          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="294" max-vertical-offset="1173">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33278418" vertical-offset="3606" max-vertical-offset="4284">
+          <caret line="224" column="16" selection-start-line="224" selection-start-column="16" selection-end-line="224" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/templates/app/school.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154" vertical-offset="578" max-vertical-offset="1904">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/templates/app/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="510">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/static/app/content/site.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1055" max-vertical-offset="1632">
-          <caret line="85" column="19" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1298" max-vertical-offset="1972">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/templates/app/loginpartial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="374">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlumniWebsite/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlumniWebsite/AlumniWebsite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.94398683" vertical-offset="362" max-vertical-offset="1037">
+          <caret line="63" column="65" selection-start-line="63" selection-start-column="65" selection-end-line="63" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/templates/app/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.423077" vertical-offset="68" max-vertical-offset="1122">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/templates/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="1564">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding>
-            <marker date="1462273602035" expanded="true" signature="1395:1462" placeholder="{...}" />
-            <marker date="1462273602035" expanded="true" signature="1586:1646" placeholder="{...}" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AlumniWebsite/app/static/app/content/site.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18072289" vertical-offset="1374" max-vertical-offset="2227">
-          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.8244406" vertical-offset="2309" max-vertical-offset="2890">
+          <caret line="164" column="1" selection-start-line="164" selection-start-column="1" selection-end-line="164" selection-end-column="1" />
           <folding />
         </state>
       </provider>
