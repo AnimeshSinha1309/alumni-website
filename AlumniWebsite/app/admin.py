@@ -14,6 +14,10 @@ class UserAdmin(BaseUserAdmin):
 class CircleAdmin(admin.ModelAdmin):
     model = models.Circle
 
+class EventAdmin(admin.ModelAdmin):
+    model = models.Event
+
 admin.site.unregister(User)
 admin.site.register(User, UserAdmin)
 admin.site.register(models.Circle, CircleAdmin)
+admin.site.register(models.Event, EventAdmin)

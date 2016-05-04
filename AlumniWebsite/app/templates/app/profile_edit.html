@@ -1,0 +1,24 @@
+{% extends "app/layout.html" %}
+
+{% block content %}
+{% load staticfiles %}
+
+<h2>{{ title }}.</h2>
+<p>Update and Add your profile data here.</p>
+
+<form method="post" action="{% url 'profile/edit' %}" class="form-horizontal container">
+    {% csrf_token %}
+    {% for field in form %}
+        <div class="form-group">
+            <div class="field-validation-error">{{ field.errors }}</div>
+            <label for="{{field.id_for_label}}" class="col-md-2 control-label">{{ field.label }}</label> 
+            <div class="col-md-10"> {{ field }} </div>
+            {% if field.help_text %} <p class="help">{{ field.help_text|safe }}</p> {% endif %}
+        </div>
+    {% endfor %}
+    <div class="col-md-10 col-md-offset-2">
+        <input type="submit" value="Confirm the Edit" class="btn btn-primary" style="margin-top:15px" />
+    </div>
+</form>
+
+{% endblock %}

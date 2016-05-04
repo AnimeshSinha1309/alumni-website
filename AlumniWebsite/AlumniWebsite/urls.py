@@ -25,13 +25,15 @@ urlpatterns = [
     url(r'^contribute/$', app.views.contribute, name='contribute'),
     url(r'^contact/$', app.views.contact, name='contact'),
     url(r'^school/$', app.views.school, name='school'),
+    url(r'^team/$', app.views.team, name='team'),
     # Alumni listings and profiles
     url(r'^alumni/batch/$', app.views.alumni_batches, name='alumni/batches'),
     url(r'^alumni/circles/$', app.views.alumni_circles, name='alumni/circles'),
     url(r'^alumni/distinguished/$', app.views.alumni_distinguished, name='alumni/distinguished'),
     url(r'^alumni/search/$', app.views.alumni_search, name='alumni/search'),
     url(r'^alumni/batch/(?P<batch>[0-9]{4})/$', app.views.alumni_batchlist),
-    url(r'^profile/(?P<username>\w*)/?$', app.views.profile),
+    url(r'^profile/(?P<username>\w*)/?$', app.views.profile, name='profile'),
+    url(r'^settings/profile/edit/$', app.views.profile_edit, name='profile/edit'),
     url(r'^actions/befriend/(?P<username>\w*)/?$', app.actions.befriend),
     url(r'^actions/unfriend/(?P<username>\w*)/?$', app.actions.unfriend),
     # Authorization and Administration

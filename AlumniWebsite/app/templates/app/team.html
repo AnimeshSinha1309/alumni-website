@@ -1,0 +1,56 @@
+{% extends "app/layout.html" %}
+
+{% block content %}
+{% load staticfiles %}
+
+<h2>{{ title }}.</h2>
+<p>People that make the Alumni Association happen</p>
+
+<hr />
+
+<div class="container">
+    <div class="row team-committee">
+        <h3>Alumni Association Committee Members</h3>
+        <div class="col-sm-4">
+            <img src="{% static 'app/images/defaultavatar.png' %}" class="img-circle img-halo" />
+            <h4>Rev. Mony Mathew</h4>
+            <p class="font-large">School Principal</p>
+        </div>
+        <div class="col-sm-4">
+            <img src="{% static 'app/images/defaultavatar.png' %}" class="img-circle img-halo" />
+            <h4>Vineet Kumar</h4>
+            <p class="font-large">President</p>
+        </div>
+        <div class="col-sm-4">
+            <img src="{% static 'app/images/defaultavatar.png' %}" class="img-circle img-halo" />
+            <h4>Member Name</h4>
+            <p class="font-large">Description of Person</p>
+        </div>
+    </div>
+    <div class="row team-developers">
+        <h3>Development and Taskforce</h3>
+        <div class="col-sm-3">
+            <img src="{% static 'app/images/defaultavatar.png' %}" class="img-circle img-halo" />
+            <h4>Animesh Sinha</h4>
+            <p class="font-large">Developer</p>
+        </div>
+        <div class="col-sm-3">
+            <img src="{% static 'app/images/defaultavatar.png' %}" class="img-circle img-halo" />
+            <h4>Kunal Roy</h4>
+            <p class="font-large">Content Creator</p>
+        </div>
+        <div class="col-sm-3">
+            <img src="{% static 'app/images/defaultavatar.png' %}" class="img-circle img-halo" />
+            <h4>Vineet Kumar</h4>
+            <p class="font-large">Project Manager</p>
+        </div>
+        <div class="col-sm-3">
+            <img src="{% static 'app/images/defaultavatar.png' %}" class="img-circle img-halo" />
+            <h4>Sakshi Sindhuja</h4>
+            <p class="font-large">Cross Device Testing</p>
+        </div>
+    </div>
+    
+</div>
+
+{% endblock %}

@@ -4,8 +4,8 @@ Website for St. Thomas school almuni association.
 ## Programming Languages and Dependencies
 
 Our code is prinarily written in Python using the Django framework. Django constitutes the entire back end as well as
-most of the front end of the code using Django templating language. Other static files like CSS, JavaScript are also
-used. We are using plain CSS and JavaScript for our codes, but plan to support supersents like SASS and TypeScript soon
+most of the front end of the code using Django templating language. Static files like CSS and JavaScript are used on
+the from end. We are SCSS to get our stylesheets, but regular JavaScript for now, (we plan to use TypeScript soon).
 Library dependencies of the code are enlisted in the requirements.txt file, please use it to maintain your dependencies.
 
 So the languages and libraries used are:
@@ -13,6 +13,7 @@ So the languages and libraries used are:
 * Django 1.9.4
 * HTML 5
 * CSS 3
+* SCSS 3.4.22
 * JavaScript
 * Pillow 3.2.0
 * PIP 7.1.2

@@ -1,7 +1,6 @@
 is_py2
 LocationParseError
 REDIRECT_STATI
-json_dumps
 collections
 cookiejar_from_dict
 default_hooks
@@ -19,6 +18,7 @@ RequestField
 PreparedRequest
 Request
 requote_uri
+complexjson
 RequestEncodingMixin
 iter_slices
 urlsplit
@@ -52,6 +52,5 @@ urlunparse
 DEFAULT_REDIRECT_LIMIT
 ChunkedEncodingError
 to_native_string
-json
 StreamConsumedError
 MissingSchema

@@ -1,7 +1,6 @@
 ChargingBar
 IncrementalBar
 FillingCirclesBar
-unicode_literals
 Progress
 WritelnMixin
 ShadyBar

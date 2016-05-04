@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title }}</title>
     {% load staticfiles %}
-    <link rel="stylesheet" type="text/css" href="{% static 'app/content/bootstrap.min.css' %}" />
+    <link rel="icon" href="{% static 'app/images/favicon.ico' %}" />
+    <link rel="stylesheet" type="text/css" href="{% static 'app/content/paperswatch.min.css' %}" />
     <link rel="stylesheet" type="text/css" href="{% static 'app/content/site.css' %}" />
     <script src="{% static 'app/scripts/modernizr-2.6.2.js' %}"></script>
 </head>
@@ -31,9 +32,10 @@
                             More <span class="caret"></span>
                         </a>
                         <ul class="dropdown-menu">
+                            <li><a href="{% url 'team' %}">Team</a></li>
+                            <li><a href="{% url 'school' %}">School</a></li>
                             <li><a href="{% url 'contribute' %}">Contribute</a></li>
                             <li><a href="{% url 'contact' %}">Contact</a></li>
-                            <li><a href="{% url 'school' %}">School</a></li>
                         </ul>
                     </li>
                 </ul>

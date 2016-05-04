@@ -10,9 +10,9 @@ textwrap
 os
 Library
 CodeType
-make_zipfile
-write_safety_flag
-get_path
+six
+scan_module
+walk_egg
 remove_tree
 EntryPoint
 get_python_version
@@ -26,8 +26,8 @@ marshal
 write_stub
 _get_purelib
 iter_symbols
-scan_module
-walk_egg
-basestring
+make_zipfile
+write_safety_flag
+get_path
 DistutilsSetupError
 can_scan

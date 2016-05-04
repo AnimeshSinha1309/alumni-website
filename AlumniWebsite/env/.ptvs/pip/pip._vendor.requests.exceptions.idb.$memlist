@@ -4,11 +4,13 @@ RequestException
 Timeout
 InvalidSchema
 MissingSchema
+RequestsWarning
 ChunkedEncodingError
 SSLError
 URLRequired
 TooManyRedirects
 ConnectionError
+FileModeWarning
 ProxyError
 InvalidURL
 ConnectTimeout

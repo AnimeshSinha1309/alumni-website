@@ -1,9 +1,9 @@
 sys
 PY_COMPILED
-compat
 PKG_DIRECTORY
 imp
 PY_SOURCE
+six
 __all__
 _update_globals
 Require

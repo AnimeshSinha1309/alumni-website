@@ -1,8 +1,10 @@
 user_agent
 _get_used_vcs_backend
+CONTENT_CHUNK_SIZE
 PyPI
 PipXmlrpcTransport
 _copy_file
+auto_decode
 is_archive_file
 CacheControlAdapter
 DownloadProgressSpinner
@@ -12,6 +14,7 @@ call_subprocess
 InsecureHTTPAdapter
 __all__
 sys
+consume
 indent_log
 path_to_url
 ssl
@@ -19,9 +22,9 @@ vcs
 json
 unpack_http_url
 urllib3
-getpass
+splitext
 urllib_request
-_download_http_url
+tempfile
 is_url
 os
 re
@@ -30,7 +33,6 @@ _scheme_re
 pip
 cgi
 PipSession
-hashlib
 LockError
 mimetypes
 platform
@@ -53,6 +55,7 @@ _check_download_dir
 _download_url
 HTTPBasicAuth
 unpack_file_url
+is_dir_url
 backup_dir
 HTTPAdapter
 HAS_TLS
@@ -63,15 +66,14 @@ HashMismatch
 urllib_parse
 absolute_import
 SafeFileCache
-splitext
+getpass
 url_to_path
-tempfile
+_download_http_url
 write_delete_marker_file
 InstallationError
-_check_hash
 check_path_owner
-_get_hash_from_file
 shutil
+SETUPTOOLS_SHIM
 ARCHIVE_EXTENSIONS
 _copy_dist_from_dir
 BaseAdapter

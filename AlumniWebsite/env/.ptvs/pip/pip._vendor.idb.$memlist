@@ -7,8 +7,9 @@ os
 ipaddress
 six
 sys
+pyparsing
 distlib
-absolute_import
+vendored
 progress
 glob
 _markerlib
@@ -16,5 +17,5 @@ DEBUNDLED
 cachecontrol
 lockfile
 packaging
+absolute_import
 WHEEL_DIR
-vendored

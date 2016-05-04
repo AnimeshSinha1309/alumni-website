@@ -1,32 +1,85 @@
 {% extends "app/layout.html" %}
 
 {% block content %}
-
+{% load staticfiles %}
 <div class="jumbotron">
-    <h1>Django</h1>
-    <p class="lead">Django is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="https://www.djangoproject.com/" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+    <div class="row">
+        <div class="col-sm-3">
+            <img src="{% static 'app/images/logo.svg' %}" class="img-circle" height="250" width="250">
+        </div>
+        <div class="col-sm-9">
+            <h1>St. Thomas Alumni</h1>
+            <p class="lead">St. Thomas Alumni Association, Ranchi (STAR) is a privately organized alumni association
+            working together with the school to keep all Friends in close and development friendly networks.</p>
+            <p><a href="http://www.stthomasschoolranchi.com/" class="btn btn-primary btn-large" target="_blank">St. Thomas School &raquo;</a></p>
+        </div>
+    </div>
+</div>
+
+<div class="row" style="background-color: #333333;">
+    <div id="carousel-home" class="carousel slide col-md-8 col-md-offset-2" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#carousel-home" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-home" data-slide-to="1"></li>
+            <li data-target="#carousel-home" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <img width="1000" height="500" src="{% static 'app/images/gallery/demo/demohome1.jpg' %}" alt="...">
+                <div class="carousel-caption">
+                </div>
+            </div>
+            <div class="item">
+                <img width="1000" height="500" src="{% static 'app/images/gallery/demo/demohome2.jpg' %}" alt="...">
+                <div class="carousel-caption">
+                </div>
+            </div>
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#carousel-home" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#carousel-home" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
 </div>
 
 <div class="row">
     <div class="col-md-4">
-        <h2>Getting started</h2>
+        <h2>What we Do</h2>
         <p>
-            Django gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and gives you full control over markup
-            for enjoyable, agile development.
+            Once a St. Thomasian, always a St. Thomasian. Its a relationship for life, and strive to
+            make those bonds stronger and bring together all students and staff to develop an atmosphere
+            or academic creativity and belongingness to the community. Let's relive the nostalgia and 
+            celebrate the St. Thomas fraternity!
         </p>
-        <p><a class="btn btn-default" href="http://www.djangobook.com/en/2.0/index.html">Learn more &raquo;</a></p>
+        <p><a class="btn btn-default" href="{% url 'contact' %}" target="_blank">Join in &raquo;</a></p>
     </div>
     <div class="col-md-4">
-        <h2>Get more libraries</h2>
-        <p>The Python Package Index is a repository of software for the Python programming language.</p>
-        <p><a class="btn btn-default" href="https://pypi.python.org/pypi">Learn more &raquo;</a></p>
+        <h2>Hall of Fame</h2>
+        <p>
+            We take pride in each of our alumni, and all of them make an impact on the world: Our Alumni
+            flourish in varied sectors from television, sports, service sectors to government and 
+            research.
+        </p>
+        <p><a class="btn btn-default" href="{% url 'alumni/distinguished' %}" target="_blank">View Achievements &raquo;</a></p>
     </div>
     <div class="col-md-4">
-        <h2>Microsoft Azure</h2>
-        <p>You can easily publish to Microsoft Azure using Python Tools for Visual Studio. Find out how you can host your application using a free trial today.</p>
-        <p><a class="btn btn-default" href="http://azure.microsoft.com">Learn more &raquo;</a></p>
+        <h2>Our Plans</h2>
+        <p>
+            Join us in bettering our world, help out the school in its varied education programs that
+            include pushing the bounds in top-end education and inspiring innovation to uplifting every
+            bit of the society and helping them learn. Take part in the campaign - Contribute to your
+            society.
+        </p>
+        <p><a class="btn btn-default" href="{% url 'contribute' %}" target="_blank">Partake in our Activities &raquo;</a></p>
     </div>
 </div>
 

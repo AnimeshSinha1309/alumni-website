@@ -1,6 +1,7 @@
 get_executable
 ZipFile
 BytesIO
+_enquote_executable
 re
 os
 convert_path

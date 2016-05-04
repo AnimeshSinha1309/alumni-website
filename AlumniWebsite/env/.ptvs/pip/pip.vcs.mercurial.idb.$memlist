@@ -1,13 +1,12 @@
 logger
 VersionControl
-os
+vcs
 absolute_import
 logging
-re
+tempfile
 configparser
 path_to_url
-vcs
+os
 rmtree
 Mercurial
-tempfile
 display_path

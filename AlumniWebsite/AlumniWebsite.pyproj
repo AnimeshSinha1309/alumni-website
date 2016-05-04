@@ -54,6 +54,9 @@
     <Folder Include="app\static\app\" />
     <Folder Include="app\static\app\content\" />
     <Folder Include="app\static\app\fonts\" />
+    <Folder Include="app\static\app\images\" />
+    <Folder Include="app\static\app\images\gallery\" />
+    <Folder Include="app\static\app\images\gallery\demo\" />
     <Folder Include="app\static\app\scripts\" />
     <Folder Include="app\templates\" />
     <Folder Include="app\templates\app\" />
@@ -62,17 +65,33 @@
     <Folder Include="media\profile\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\static\app\content\paperswatch.min.css" />
+    <Content Include="app\static\app\content\site.scss" />
+    <Content Include="app\static\app\images\favicon.ico" />
+    <Content Include="app\static\app\images\gallery\demo\demohome1.jpg" />
+    <Content Include="app\static\app\images\gallery\demo\demohome2.jpg" />
+    <Content Include="app\static\app\images\gallery\demo\event1-1.jpg" />
+    <Content Include="app\static\app\images\gallery\demo\event1-2.jpg" />
+    <Content Include="app\static\app\images\gallery\demo\event1-3.jpg" />
+    <Content Include="app\static\app\images\defaultavatar.png" />
+    <Content Include="app\static\app\images\logo.svg" />
     <Content Include="app\templates\app\alumni_circles.html" />
     <Content Include="app\templates\app\alumni_distinguished.html" />
     <Content Include="app\templates\app\alumni_search.html" />
     <Content Include="app\templates\app\alumni_batches.html" />
     <Content Include="app\templates\app\alumni_batchlist.html" />
+    <Content Include="app\templates\app\profile_edit.html" />
+    <Content Include="app\templates\app\team.html" />
+    <Content Include="app\templates\app\events.html" />
     <Content Include="app\templates\app\contribute.html" />
     <Content Include="app\templates\app\profile.html" />
-    <Content Include="app\templates\app\events.html" />
     <Content Include="app\templates\app\school.html" />
+    <Content Include="favicon.ico" />
+    <Content Include="media\profile\Ananya_Banerjee.jpg" />
     <Content Include="media\profile\animeshsinha.jpg" />
     <Content Include="media\profile\Ankit_Kumar.jpg" />
+    <Content Include="media\profile\Anushka_Bose.jpg" />
+    <Content Include="media\profile\Kunal_Roy.jpg" />
     <Content Include="media\profile\Sagnik_Sanyal.jpg" />
     <Content Include="media\profile\_defaultavatar.png" />
     <Content Include="requirements.txt" />

@@ -3,9 +3,9 @@
 {% block content %}
 {% load staticfiles %}
 
-<div style="padding: 30px;">
+<div>
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-4 text-center">
             <img src="{{ data.picture.url }}" height="200" width="200" class="img-circle" />
             <h2>{{ data.user.first_name }} {{ data.user.last_name }}</h2>
             {% if status == 'Unconnected' %}
@@ -14,35 +14,65 @@
                 </a>
             {% elif status == 'Friends' %}
                 <a href="/actions/unfriend/{{ data.user.username }}" class="btn btn-primary">
-                    Remove to Friends List
+                    Remove from Friends List
                 </a>
             {% elif status == 'Self' %}
-                <a href="/actions/befriend/{{ data.user.username }}" class="btn btn-primary">
-                    Cant do much on your Profile
+                <a href="{% url 'profile/edit' %}" class="btn btn-primary">
+                    Edit your Profile
                 </a>
             {% endif %}
         </div>
         <div class="col-md-8">
-            <div class="profile-item">
-                <strong>Email Address: </strong>{{ data.user.email }}
-            </div>
-            <div class="profile-item">
-                <strong>Works as: </strong>{{ data.jobtitle }}, {{ data.workplace }}
-            </div>
-            <div class="profile-item">
-                <strong>Passed out of the school</strong> in {{ data.batch }}
-             </div>
+            {% if data.user.email %}
+                <div class="profile-item">
+                    <strong>Email Address: </strong>{{ data.user.email }}
+                </div>
+            {% endif %}
+            {% if data.jobtitle and data.workplace %}
+                <div class="profile-item">
+                    <strong>Works as: </strong>{{ data.jobtitle }}, {{ data.workplace }}
+                </div>
+            {% endif %}
+            {% if data.batch %}
+                <div class="profile-item">
+                    {% if data.birth_date %}<strong>Born on: </strong>{{ data.birth_date }}.{% endif %}
+                    <strong> Batch of </strong>{{ data.batch}}
+                </div>
+            {% endif %}
+            {% if data.phone_mobile %}
+                <div class="profile-item">
+                    <strong>Phone No. (Mobile): </strong>{{ data.phone_mobile }}
+                </div>
+            {% endif %}
+            {% if data.phone_work %}
+                <div class="profile-item">
+                    <strong>Phone No. (Work): </strong>{{ data.phone_work }}
+                </div>
+            {% endif %}
+            {% if data.relationship_status %}
+                <div class="profile-item">
+                    <strong>Relationship Status: </strong>{{ data.get_relationship_status_display }}
+                    (<strong>Gender: </strong>{{ data.get_sex_display }})
+                </div>
+            {% endif %}
         </div>
     </div>
-    <div class="row" style="margin-top: 50px;">
-        {% for friend in friends %}
-            <a class="col-md-2 col-sm-3 col-xs-6" style="padding: 10px 0px;" 
-                    href="/profile/{{ friend.friend.user.username }}">
-                <img src="{{ friend.friend.picture.url }}" class="img-circle" height="100" width="100"
-                        title="{{ friend.friend.user.first_name }} {{ friend.friend.user.last_name }}" 
-                        data-toggle="tooltip" data-placement="top" />
-            </a>
-        {% endfor %}
+
+    <div class="container" style="margin-top: 50px;">
+        <button class="btn btn-success" type="button" data-toggle="collapse" 
+                data-target="#friends" aria-expanded="false" aria-controls="friends">
+            Friend List
+        </button>
+        <div class="row collapse" id="friends">
+            {% for friend in friends %}
+                <a class="col-md-2 col-sm-3 col-xs-6 text-center" style="padding: 10px 0px;" 
+                        href="/profile/{{ friend.friend.user.username }}">
+                    <img src="{{ friend.friend.picture.url }}" class="img-circle" height="100" width="100"
+                            title="{{ friend.friend.user.first_name }} {{ friend.friend.user.last_name }}" 
+                            data-toggle="tooltip" data-placement="top" />
+                </a>
+            {% endfor %}
+        </div>
     </div>
 </div>
 

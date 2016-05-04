@@ -13,6 +13,7 @@ install_scripts
 alias
 test
 bdist
+upload
 build_ext
 build_py
 develop

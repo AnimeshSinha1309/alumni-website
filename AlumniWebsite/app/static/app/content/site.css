@@ -1,100 +1,118 @@
-﻿body {
-    padding-top: 50px;
-    padding-bottom: 20px;
-    background-color: #F7F7F7;
-}
+body {
+  padding: 100px 0px; }
 
 /* Set padding to keep content from hitting the edges */
 .body-content {
-    padding-left: 15px;
-    padding-right: 15px;
-}
+  padding-left: 15px;
+  padding-right: 15px; }
 
 /* Set width on the form input elements since they're 100% wide by default */
 input,
 select,
 textarea {
-    max-width: 280px;
-}
+  max-width: 280px; }
 
 /* styles for validation helpers */
 .field-validation-error {
-    color: #b94a48;
-}
+  color: #b94a48; }
 
 .field-validation-valid {
-    display: none;
-}
+  display: none; }
 
 input.input-validation-error {
-    border: 1px solid #b94a48;
-}
+  border: 1px solid #b94a48; }
 
 input[type="checkbox"].input-validation-error {
-    border: 0 none;
-}
+  border: 0 none; }
 
 .validation-summary-errors {
-    color: #b94a48;
-}
+  color: #b94a48; }
 
 .validation-summary-valid {
-    display: none;
-}
+  display: none; }
 
 /* Styles for objects on alumnus page */
-
-div.navbar form {
-    margin-bottom: 0;
-}
-
 div.batch-link {
-    padding: 15px;
-    text-align: center;
-}
-
-div.batch-link a {
+  padding: 15px;
+  text-align: center; }
+  div.batch-link a {
     display: block;
     padding: 50px 0px;
     background-color: #333333;
     color: white;
     font-size: 40px;
-    transition-property: all;
     transition-duration: 0.5s;
-    width: 100%;
-}
-
-@media (max-width:768px) {
-    div.batch-link a {
-        padding: 20px 0px;
-    }
-}
-
-div.batch-link a:hover {
-    background-color: black;
-    color: white;
-    text-decoration: none;
-}
+    width: 100%; }
+    div.batch-link a:hover {
+      background-color: black;
+      text-decoration: none; }
+    @media screen and (max-width: 768px) {
+      div.batch-link a {
+        padding: 20px 0px; } }
 
 div.people-list {
-    padding: 10px;
-}
-
-div.people-list div.people-item {
+  padding: 10px; }
+  div.people-list div.people-item {
     border-top: thin solid;
     border-color: #DDDDDD;
-    padding: 20px;
-}
-
-div.people-list div.people-item div.people-data {
-    padding: 10px;
-}
+    padding: 20px; }
+    div.people-list div.people-item div.people-data {
+      padding: 10px; }
 
 div.profile-item {
-    padding: 10px;
-    font-size: 20px;
-}
+  padding: 10px; }
+  @media screen and (min-width: 768px) {
+    div.profile-item {
+      font-size: large; } }
 
-form.search-form {
-    padding: 50px;
-}
+form#search-form {
+  padding: 25px; }
+  form#search-form input[type="search"] {
+    width: 100%; }
+
+/* Styles for Settings Page */
+form textarea.textarea-selector.form-control {
+  max-height: 100px; }
+
+/* Styles for Objects on Events Page */
+div.event-xmega {
+  background-color: #2196f3;
+  padding: 20px;
+  color: white; }
+  @media screen and (min-width: 768px) {
+    div.event-xmega {
+      font-size: large; } }
+  @media screen and (max-width: 768px) {
+    div.event-xmega {
+      padding: 10px; } }
+  div.event-xmega h1, div.event-xmega h2, div.event-xmega h3, div.event-xmega h4, div.event-xmega h5, div.event-xmega h6, div.event-xmega strong {
+    color: white; }
+  div.event-xmega div.image-set {
+    margin: 10px 0px 10px; }
+    div.event-xmega div.image-set div.row img {
+      width: 31%; }
+
+.eventcard-container {
+  padding: 20px 10px 20px 10px; }
+
+/* Styles for Team Page */
+div.team-developers, div.team-committee {
+  text-align: center;
+  padding-top: 20px; }
+  div.team-developers div, div.team-committee div {
+    padding: 20px;
+    text-align: center; }
+    div.team-developers div img.img-halo, div.team-committee div img.img-halo {
+      box-shadow: 0px 0px 0px 10px #0c84e4; }
+    div.team-developers div h4, div.team-committee div h4 {
+      margin-top: 20px;
+      margin-bottom: 0px; }
+
+/* Styles for School Page */
+.font-large {
+  font-size: large; }
+
+.carousel-inner {
+  text-align: center; }
+
+/*# sourceMappingURL=site.css.map */

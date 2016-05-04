@@ -1,9 +1,64 @@
 {% extends "app/layout.html" %}
 
 {% block content %}
+{% load staticfiles %}
 
 <h2>{{ title }}.</h2>
-
 <p>Use this area to provide additional information.</p>
+
+<hr />
+
+<div class="row eventcard-container">
+    <div class="event-xmega">
+        <h3>{{ main_event.name }}</h3>
+        <div class="row">
+            <h5 class="col-md-8">{{ main_event.subtitle }}</h5>
+            <strong class="col-md-4">{{ main_event.date }}</strong>
+        </div>
+        <div class="image-set container">
+            <div class="row">
+                <img src="{% static 'app/images/gallery/demo/event1-1.jpg' %}" alt="Image" />
+                <img src="{% static 'app/images/gallery/demo/event1-2.jpg' %}" alt="Image" />
+                <img src="{% static 'app/images/gallery/demo/event1-3.jpg' %}" alt="Image" />
+            </div>
+        </div>
+        <div>
+            {{ main_event.description }}
+        </div>
+    </div>
+</div>
+<div class="row">
+    {% for event in future_events %}
+        <div class="col-md-4 eventcard-container"> 
+           <div class="event-xmega">
+                <h3>{{ event.name }}</h3>
+                <div class="row">
+                    <h5 class="col-md-6">{{ event.subtitle }}</h5>
+                    <strong class="col-md-6">{{ event.date }}</strong>
+                </div>
+                <div>
+                    {{ event.description }}
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
+<div class="row">
+    {% for event in past_events %}
+        <div class="col-md-4 eventcard-container"> 
+           <div class="event-xmega">
+                <h3>{{ event.name }}</h3>
+                <div class="row">
+                    <h5 class="col-md-6">{{ event.subtitle }}</h5>
+                    <strong class="col-md-6">{{ event.date }}</strong>
+                </div>
+                <div>
+                    {{ event.description }}
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>
 
 {% endblock %}

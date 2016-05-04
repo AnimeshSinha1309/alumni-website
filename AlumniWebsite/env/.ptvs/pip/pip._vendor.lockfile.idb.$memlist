@@ -1,5 +1,3 @@
-sys
-time
 NotLocked
 LockTimeout
 LockFile
@@ -7,12 +5,12 @@ _fl_helper
 symlinklockfile
 SQLiteFileLock
 os
-locked
-AlreadyLocked
+_SharedBase
+threading
 socket
-MkdirFileLock
+locked
 Error
-LockFailed
+NotMyLock
 absolute_import
 __all__
 _mlf
@@ -26,8 +24,8 @@ warnings
 _llf
 FileLock
 mkdirlockfile
-threading
+AlreadyLocked
 functools
 LockBase
-NotMyLock
-urllib
+MkdirFileLock
+LockFailed
