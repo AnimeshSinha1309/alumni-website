@@ -102,6 +102,11 @@ div.team-developers, div.team-committee {
   div.team-developers div, div.team-committee div {
     padding: 20px;
     text-align: center; }
+    div.team-developers div img.img-halo, div.team-committee div img.img-halo {
+      box-shadow: 0px 0px 0px 10px #0c84e4; }
+    div.team-developers div h4, div.team-committee div h4 {
+      margin-top: 20px;
+      margin-bottom: 0px; }
 
 /* Styles for School Page */
 .font-large {

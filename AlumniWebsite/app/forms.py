@@ -46,7 +46,8 @@ class ProfileEditingForm(forms.Form):
                                  'placeholder': 'eg. someone@example.com'}))
     birth_date = forms.DateField(label='Birth Date',
                                  widget=forms.SelectDateWidget({
-                                     'class': 'form-control date-selector'}))
+                                     'class': 'form-control date-selector',
+                                     }, years=range(1950, 2020)))
     current_address = forms.CharField(label='Current Address',
                                       widget=forms.Textarea({
                                           'class': 'form-control textarea-selector',

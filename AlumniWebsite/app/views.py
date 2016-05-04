@@ -186,13 +186,26 @@ def profile(request, username):
 def profile_edit(request):
     """Renders personal profiles."""
     assert isinstance(request, HttpRequest)
+    user = request.user
     profile = Alumnus.objects.get(user=request.user)
     if request.method == 'POST':
         form = ProfileEditingForm(request.POST)
         if form.is_valid():
+            profile.jobtitle = form.cleaned_data['jobtitle']
+            profile.workplace = form.cleaned_data['workplace']
+            profile.birth_date = form.cleaned_data['birth_date']
+            profile.current_address = form.cleaned_data['current_address']
+            profile.permanent_address = form.cleaned_data['permanent_address']
+            profile.phone_mobile = form.cleaned_data['phone_mobile']
+            profile.phone_home = form.cleaned_data['phone_home']
             profile.phone_work = form.cleaned_data['phone_work']
+            profile.relationship_status = form.cleaned_data['relationship_status']
+            user.first_name = form.cleaned_data['fname']
+            user.last_name = form.cleaned_data['lname']
+            user.email = form.cleaned_data['email']
             profile.save()
-            redirect('/')
+            user.save()
+            return redirect('home')
     else:
         form = ProfileEditingForm(initial={'fname':request.user.first_name, 'lname':request.user.last_name,
                 'jobtitle':profile.jobtitle, 'workplace':profile.workplace,'email':request.user.email,

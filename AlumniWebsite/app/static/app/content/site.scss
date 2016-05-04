@@ -150,6 +150,15 @@ div.team-developers, div.team-committee {
         text-align: center;
 
         img {
+
+            .img-halo {
+                box-shadow: 0px 0px 0px 10px #0c84e4;
+            }
+        }
+
+        h4 {
+            margin-top: 20px;
+            margin-bottom: 0px;
         }
     }
 }
