@@ -1,70 +1,150 @@
-/*
-Error: Undefined variable: "$palette-theme".
-        on line 115 of site.scss
+/* Theme Overrides */
+.navbar.navbar-inverse,
+.nav-pills > li.active > a,
+.btn.btn-primary {
+  background-color: #6F4E37; }
 
-110: }
-111: 
-112: /* Styles for Objects on Events Page *\/
-113: 
-114: div.event-xmega {
-115:     background-color: $palette-theme;
-116:     padding: 20px;
-117:     color: white;
-118: 
-119:     @media screen and (min-width:$screen-xs-max) {
-120:         font-size: large;
+input[type="text"].form-control:focus,
+input[type="password"].form-control:focus,
+input[type="email"].form-control:focus,
+input[type="number"].form-control:focus,
+input[type="tel"].form-control:focus,
+textarea.form-control:focus,
+select.form-control:focus {
+  box-shadow: inset 0 -2px 0 #6F4E37; }
 
-Backtrace:
-site.scss:115
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/script/tree/variable.rb:49:in `_perform'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/script/tree/node.rb:58:in `perform'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:397:in `visit_prop'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/base.rb:36:in `visit'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:160:in `block in visit'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/stack.rb:79:in `block in with_base'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/stack.rb:115:in `with_frame'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/stack.rb:79:in `with_base'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:160:in `visit'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:433:in `block (2 levels) in visit_rule'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:433:in `map'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:433:in `block in visit_rule'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:181:in `with_environment'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:431:in `visit_rule'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/base.rb:36:in `visit'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:160:in `block in visit'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/stack.rb:79:in `block in with_base'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/stack.rb:115:in `with_frame'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/stack.rb:79:in `with_base'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:160:in `visit'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/base.rb:52:in `map'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/base.rb:52:in `visit_children'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:169:in `block in visit_children'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:181:in `with_environment'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:168:in `visit_children'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/base.rb:36:in `block in visit'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:188:in `visit_root'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/base.rb:36:in `visit'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:159:in `visit'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:8:in `visit'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/root_node.rb:36:in `css_tree'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/tree/root_node.rb:29:in `render_with_sourcemap'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/engine.rb:381:in `_render_with_sourcemap'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/engine.rb:298:in `render_with_sourcemap'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/plugin/compiler.rb:492:in `update_stylesheet'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/plugin/compiler.rb:215:in `block in update_stylesheets'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/plugin/compiler.rb:209:in `each'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/plugin/compiler.rb:209:in `update_stylesheets'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/plugin.rb:82:in `update_stylesheets'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/exec/sass_scss.rb:340:in `watch_or_update'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/exec/sass_scss.rb:51:in `process_result'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/exec/base.rb:52:in `parse'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/lib/sass/exec/base.rb:19:in `parse!'
-C:/Installations/Ruby21/lib/ruby/gems/2.1.0/gems/sass-3.4.22/bin/scss:13:in `<top (required)>'
-C:/Installations/Ruby21/bin/scss:23:in `load'
-C:/Installations/Ruby21/bin/scss:23:in `<main>'
-*/
-body:before {
-  white-space: pre;
-  font-family: monospace;
-  content: "Error: Undefined variable: \"$palette-theme\".\A         on line 115 of site.scss\A \A 110: }\A 111: \A 112: /* Styles for Objects on Events Page */\A 113: \A 114: div.event-xmega {\A 115:     background-color: $palette-theme;\A 116:     padding: 20px;\A 117:     color: white;\A 118: \A 119:     @media screen and (min-width:$screen-xs-max) {\A 120:         font-size: large;"; }
+.navbar.navbar-inverse .navbar-brand, .navbar.navbar-inverse .navbar-nav > li > a {
+  color: #FFFFFF !important; }
+.navbar.navbar-inverse .navbar-nav > li:focus,
+.navbar.navbar-inverse .navbar-nav > .open > a,
+.navbar.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar.navbar-inverse .navbar-nav > .open > a:focus {
+  background-color: #4d3626; }
+
+body {
+  padding: 100px 0px; }
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+  padding-left: 15px;
+  padding-right: 15px; }
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+  max-width: 280px; }
+
+/* styles for validation helpers */
+.field-validation-error {
+  color: #b94a48; }
+
+.field-validation-valid {
+  display: none; }
+
+input.input-validation-error {
+  border: 1px solid #b94a48; }
+
+input[type="checkbox"].input-validation-error {
+  border: 0 none; }
+
+.validation-summary-errors {
+  color: #b94a48; }
+
+.validation-summary-valid {
+  display: none; }
+
+/* Styles for objects on alumnus page */
+div.batch-link {
+  padding: 15px;
+  text-align: center; }
+  div.batch-link a {
+    display: block;
+    padding: 50px 0px;
+    background-color: #333333;
+    color: white;
+    font-size: 40px;
+    transition-duration: 0.5s;
+    width: 100%; }
+    div.batch-link a:hover {
+      background-color: black;
+      text-decoration: none; }
+    @media screen and (max-width: 768px) {
+      div.batch-link a {
+        padding: 20px 0px; } }
+
+div.people-list {
+  padding: 10px; }
+  div.people-list div.people-item {
+    border-top: thin solid;
+    border-color: #DDDDDD;
+    padding: 20px; }
+    div.people-list div.people-item div.people-data {
+      padding: 10px; }
+
+div.profile-item {
+  padding: 10px; }
+  @media screen and (min-width: 768px) {
+    div.profile-item {
+      font-size: large; } }
+
+form#search-form {
+  padding: 25px; }
+  form#search-form input[type="search"] {
+    width: 100%; }
+
+/* Styles for Settings Page */
+form textarea.textarea-selector.form-control {
+  max-height: 100px; }
+form ul#id_relationship_status {
+  list-style: none;
+  padding-left: 0; }
+  form ul#id_relationship_status label {
+    display: inline-block;
+    vertical-align: top; }
+    form ul#id_relationship_status label input[type="radio"] {
+      display: block; }
+
+/* Styles for Objects on Events Page */
+div.event-xmega {
+  background-color: #6F4E37;
+  padding: 20px;
+  color: white; }
+  @media screen and (min-width: 768px) {
+    div.event-xmega {
+      font-size: large; } }
+  @media screen and (max-width: 768px) {
+    div.event-xmega {
+      padding: 10px; } }
+  div.event-xmega h1, div.event-xmega h2, div.event-xmega h3, div.event-xmega h4, div.event-xmega h5, div.event-xmega h6, div.event-xmega strong {
+    color: white; }
+  div.event-xmega div.image-set {
+    margin: 10px 0px 10px; }
+    div.event-xmega div.image-set div.row img {
+      width: 31%; }
+
+.eventcard-container {
+  padding: 20px 10px 20px 10px; }
+
+/* Styles for Team Page */
+div.team-developers, div.team-committee {
+  text-align: center;
+  padding-top: 20px; }
+  div.team-developers div, div.team-committee div {
+    padding: 20px;
+    text-align: center; }
+    div.team-developers div h4, div.team-committee div h4 {
+      margin-top: 20px;
+      margin-bottom: 0px; }
+
+img.img-halo {
+  box-shadow: 0px 0px 0px 10px #6F4E37; }
+
+/* Styles for School Page */
+.font-large {
+  font-size: large; }
+
+.carousel-inner {
+  text-align: center; }
+
+/*# sourceMappingURL=site.css.map */

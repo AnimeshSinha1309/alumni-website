@@ -1,12 +1,49 @@
 $screen-xs-max: 768px;
-$palette-theme: #2196f3;
+$color-bright-blue: #0C84D5;
+$color-bluish-green: #00CC88;
+$color-light-green: #AACC33;
+$color-absolute-black: #000000;
+$color-coffee-brown: #6F4E37;
+$color-google-red: #dd4b39;
+$palette-theme: $color-coffee-brown;
+
+
+/* Theme Overrides */
+.navbar.navbar-inverse,
+.nav-pills>li.active>a,
+.btn.btn-primary {
+    background-color: $palette-theme;
+}
+input[type="text"].form-control:focus,
+input[type="password"].form-control:focus,
+input[type="email"].form-control:focus,
+input[type="number"].form-control:focus,
+input[type="tel"].form-control:focus,
+textarea.form-control:focus,
+select.form-control:focus {
+    box-shadow: inset 0 -2px 0 $palette-theme;
+}
+
+.navbar.navbar-inverse{
+    .navbar-brand, .navbar-nav>li>a  {
+        color: #FFFFFF !important;
+    }
+    .navbar-nav>li:focus,
+    .navbar-nav>.open>a,
+    .navbar-nav>.open>a:hover,
+    .navbar-nav>.open>a:focus {
+        background-color: darken($palette-theme, 10%);
+    }
+}
 
 
 body {
     padding: 100px 0px;
 }
 
+
 /* Set padding to keep content from hitting the edges */
+
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
@@ -106,6 +143,20 @@ form {
 
     textarea.textarea-selector.form-control {
         max-height: 100px;
+    }
+
+    ul#id_relationship_status {
+        list-style: none;
+        padding-left: 0;
+
+        label {
+            display: inline-block;
+            vertical-align: top;
+
+            input[type="radio"] {
+                display: block;
+            }
+        }
     }
 }
 
