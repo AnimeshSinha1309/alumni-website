@@ -1,4 +1,6 @@
 $screen-xs-max: 768px;
+$palette-theme: #2196f3;
+
 
 body {
     padding: 100px 0px;
@@ -110,7 +112,7 @@ form {
 /* Styles for Objects on Events Page */
 
 div.event-xmega {
-    background-color: #2196f3;
+    background-color: $palette-theme;
     padding: 20px;
     color: white;
 
@@ -149,19 +151,17 @@ div.team-developers, div.team-committee {
         padding: 20px;
         text-align: center;
 
-        img {
-
-            .img-halo {
-                box-shadow: 0px 0px 0px 10px #0c84e4;
-            }
-        }
-
         h4 {
             margin-top: 20px;
             margin-bottom: 0px;
         }
     }
 }
+
+img.img-halo {
+    box-shadow: 0px 0px 0px 10px $palette-theme;
+}
+
 
 /* Styles for School Page */
 

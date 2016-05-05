@@ -6,6 +6,7 @@ from django import forms
 from django.contrib.auth.forms import AuthenticationForm
 from django.utils.translation import ugettext_lazy as _
 
+
 class BootstrapAuthenticationForm(AuthenticationForm):
     """Authentication form which uses boostrap CSS."""
     username = forms.CharField(max_length=254,
@@ -15,7 +16,7 @@ class BootstrapAuthenticationForm(AuthenticationForm):
     password = forms.CharField(label=_("Password"),
                                widget=forms.PasswordInput({
                                    'class': 'form-control',
-                                   'placeholder':'Password'}))
+                                   'placeholder': 'Password'}))
 
 
 class ProfileEditingForm(forms.Form):
@@ -46,8 +47,8 @@ class ProfileEditingForm(forms.Form):
                                  'placeholder': 'eg. someone@example.com'}))
     birth_date = forms.DateField(label='Birth Date',
                                  widget=forms.SelectDateWidget({
-                                     'class': 'form-control date-selector',
-                                     }, years=range(1950, 2020)))
+                                     'class': 'form-control date-selector', },
+                                 years=range(1950, 2020)))
     current_address = forms.CharField(label='Current Address',
                                       widget=forms.Textarea({
                                           'class': 'form-control textarea-selector',
@@ -69,6 +70,6 @@ class ProfileEditingForm(forms.Form):
                                         'class': 'form-control',
                                         'placeholder': 'eg. +91 00000 00000'}))
     relationship_status = forms.ChoiceField(choices=(('MR', 'Married'), ('SN', 'Single'),
-        ('RL', 'In a Relationship'), ('DV', 'Divorced'),),
+                                                     ('RL', 'In a Relationship'), ('DV', 'Divorced'),),
                                             widget=forms.RadioSelect({
                                                 'class': 'form-control choice-selector'}))

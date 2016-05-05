@@ -2,12 +2,13 @@
 Definition of views.
 """
 
+from datetime import datetime, date
+
 from django.shortcuts import render, redirect
 from django.http import HttpRequest
-from django.template import RequestContext
 from django.db.models import Q
 from django.contrib.auth.decorators import login_required
-from datetime import datetime, date
+
 from app.models import Alumnus, User, Circle, Event
 from app.forms import ProfileEditingForm
 
@@ -29,8 +30,10 @@ def events(request):
     """Renders the events page."""
     future_events = Event.objects.filter(date__gte=date.today()).order_by('date')
     past_events = Event.objects.filter(date__lt=date.today()).order_by('-date')
-    if future_events: main_event = future_events[0]
-    else: main_event = past_event[0]
+    if future_events:
+        main_event = future_events[0]
+    else:
+        main_event = past_events[0]
     assert isinstance(request, HttpRequest)
     return render(
         request,
@@ -58,7 +61,7 @@ def team(request):
     )
 
 
-## Alumni Features and Profiles
+# # Alumni Features and Profiles
 
 
 def alumni_batches(request):
@@ -207,12 +210,15 @@ def profile_edit(request):
             user.save()
             return redirect('home')
     else:
-        form = ProfileEditingForm(initial={'fname':request.user.first_name, 'lname':request.user.last_name,
-                'jobtitle':profile.jobtitle, 'workplace':profile.workplace,'email':request.user.email,
-                'birth_date':profile.birth_date, 'current_address':profile.current_address,
-                'permanent_address':profile.permanent_address, 'phone_mobile':profile.phone_mobile, 
-                'phone_home':profile.phone_home, 'phone_work':profile.phone_work, 'picture':profile.picture,
-                'relationship_status':profile.relationship_status})
+        form = ProfileEditingForm(initial={'fname': request.user.first_name, 'lname': request.user.last_name,
+                                           'jobtitle': profile.jobtitle, 'workplace': profile.workplace,
+                                           'email': request.user.email,
+                                           'birth_date': profile.birth_date, 'current_address': profile.current_address,
+                                           'permanent_address': profile.permanent_address,
+                                           'phone_mobile': profile.phone_mobile,
+                                           'phone_home': profile.phone_home, 'phone_work': profile.phone_work,
+                                           'picture': profile.picture,
+                                           'relationship_status': profile.relationship_status})
     return render(
         request,
         'app/profile_edit.html',
@@ -258,7 +264,7 @@ def school(request):
         request,
         'app/school.html',
         {
-            'title':'St. Thomas Today',
-            'year':datetime.now().year,
+            'title': 'St. Thomas Today',
+            'year': datetime.now().year,
         }
     )

@@ -65,7 +65,7 @@
         </button>
         <div class="row collapse" id="friends">
             {% for friend in friends %}
-                <a class="col-md-2 col-sm-3 col-xs-6 text-center" style="padding: 10px 0px;" 
+                <a class="col-md-2 col-sm-3 col-xs-6 text-center" style="padding: 10px 0;"
                         href="/profile/{{ friend.friend.user.username }}">
                     <img src="{{ friend.friend.picture.url }}" class="img-circle" height="100" width="100"
                             title="{{ friend.friend.user.first_name }} {{ friend.friend.user.last_name }}" 

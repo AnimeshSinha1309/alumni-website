@@ -12,8 +12,10 @@ from django.contrib.auth.models import User
 class Alumnus(models.Model):
     class Meta:
         verbose_name_plural = "Alumni"
+
     def __str__(self):
         return self.user.username
+
     SEX_CHOICES = (
         ('M', 'Male'),
         ('F', 'Female'),
@@ -36,6 +38,7 @@ class Alumnus(models.Model):
         ('U', 'Unchecked'),
         ('B', 'Blocked'),
     )
+
     user = models.OneToOneField(User, on_delete=models.CASCADE)
     picture = models.ImageField(upload_to='profile/', default='profile/_defaultavatar.png')
     birth_date = models.DateField(null=True)
@@ -56,10 +59,12 @@ class Alumnus(models.Model):
 class Circle(models.Model):
     FRIENDSHIP_CHOICES = (
         ('FR', 'Friends'),
-        ('AQ', 'Acquaintences'),
+        ('AQ', 'Acquaintances'),
     )
+
     def __str__(self):
         return self.friend.user.username + ' is a friend of ' + self.user.user.username
+
     user = models.ForeignKey(Alumnus, related_name='alumnus_user')
     friend = models.ForeignKey(Alumnus, related_name='alumnus_friend')
     type = models.CharField(max_length=2, choices=FRIENDSHIP_CHOICES)

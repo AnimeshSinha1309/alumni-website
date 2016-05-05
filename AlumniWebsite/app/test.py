@@ -8,6 +8,7 @@ from django.test import TestCase
 
 # TODO: Configure your database in settings.py and sync before running tests.
 
+
 class ViewTest(TestCase):
     """Tests for the application views."""
 
@@ -21,14 +22,4 @@ class ViewTest(TestCase):
     def test_home(self):
         """Tests the home page."""
         response = self.client.get('/')
-        self.assertContains(response, 'Home Page', 1, 200)
-
-    def test_contact(self):
-        """Tests the contact page."""
-        response = self.client.get('/contact/')
-        self.assertContains(response, 'Contact', 3, 200)
-
-    def test_school(self):
-        """Tests the school page."""
-        response = self.client.get('/school/')
-        self.assertContains(response, 'School', 1, 200)
+        self.assertContains(response, 'home', 8, 200)
