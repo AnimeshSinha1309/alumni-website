@@ -268,3 +268,17 @@ def school(request):
             'year': datetime.now().year,
         }
     )
+
+
+def water_harvesting(request):
+    """Renders the school page."""
+    assert isinstance(request, HttpRequest)
+    return render(
+        request,
+        'app/water_harvesting.html',
+        {
+            'title': 'Water Harvesting',
+            'year': datetime.now().year,
+        }
+    )
+

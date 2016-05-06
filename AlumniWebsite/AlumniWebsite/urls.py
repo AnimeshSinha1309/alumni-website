@@ -3,6 +3,7 @@ Definition of urls for AlumniWebsite.
 """
 
 from datetime import datetime
+
 from django.conf.urls import url
 import django.contrib.auth.views
 from django.conf.urls.static import static
@@ -36,6 +37,7 @@ urlpatterns = [
     url(r'^settings/profile/edit/$', app.views.profile_edit, name='profile/edit'),
     url(r'^actions/befriend/(?P<username>\w*)/?$', app.actions.befriend),
     url(r'^actions/unfriend/(?P<username>\w*)/?$', app.actions.unfriend),
+    url(r'^projects/water/$', app.views.water_harvesting, name="projects/water"),
     # Authorization and Administration
     url(r'^login/$',
         django.contrib.auth.views.login,

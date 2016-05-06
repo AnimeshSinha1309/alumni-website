@@ -1,0 +1,99 @@
+{% extends 'app/layout.html' %}
+
+{% block content %}
+{% load staticfiles %}
+
+<div class="row" style="padding: 50px 0 50px;">
+    <div class="col-lg-6">
+        <img src="{% static 'app/images/water/water text art.png' %}" />
+    </div>
+    <div class="col-lg-6">
+        <h2>Water Scarcity in India</h2>
+        <div style="font-size: large; text-align: justify;">
+            India relies on its agriculture today, and on its industries tomorrow. Water is insufficient for the
+            farmers even today, and it will keep us from ever becoming a developed industrial nation. For the
+            country, its people and every household, its essential to conserve water, and use the best means
+            possible. For if we don't, none of use will have easily obtainable water anymore, many of us already don't.
+        </div>
+    </div>
+</div>
+<hr />
+
+<div class="row" style="padding: 50px 0 50px;">
+    <div class="col-lg-4">
+        <h2>Why Us?</h2>
+        <div style="font-size: large; text-align: justify;">
+            Our problems are extremely grave, and we need to act now. Un-managed administrative condition are making the
+            world collapse on us. Take a look at the stats, it says so strongly - <strong>Act fast, act hard</strong>.
+        </div>
+    </div>
+    <div class="col-lg-8">
+        <img src="{% static 'app/images/water/map data 1.gif' %}" />
+        <img src="{% static 'app/images/water/map india 1.png' %}" />
+    </div>
+</div>
+<hr />
+
+<div class="row" style="padding: 50px 0 50px;">
+    <div class="col-lg-4">
+        <img src="{% static 'app/images/water/map india 2.jpg' %}" width="300" />
+    </div>
+    <div class="col-lg-4">
+        <h2>Make in India? You just can't.</h2>
+        <div style="font-size: large; text-align: justify;">
+            We talk about entrepreneurship and business ideas, the fact is, you just can't. Industries are best set up
+            where there is water is cheaply available, if we don't start now, it will not be, anywhere in the country.
+            Growth, entrepreneurship, ideas, all that we are here for, only happens if you have water.
+        </div>
+    </div>
+    <div class="col-lg-4" style="padding-top: 30px;">
+        <img src="{% static 'app/images/water/water poster 1.jpg' %}" width="300" />
+    </div>
+</div>
+<hr />
+
+<div class="row" style="padding: 50px 0 50px;">
+    <div class="col-lg-12">
+        <h2>The Plan - to act.</h2>
+        <br />
+        <div style="font-size: large; text-align: justify;">
+            Students campaigns achieve great success everywhere in the world, and its time we do it here. Stuff people
+            don't usually identify with, like HelpAge India, Smile, etc, gather huge money, we can certainly get at least
+            a few people to do what they are legally obligated to, and to live a quality life of peace and productivity.
+            Some people do listen, some people will listen, and that's all we need. Not to reach every household, but to
+            get a few hundred for a start, people who listen and understand, and if you can't convince many others, just
+            start with your home.
+            <br /><br />
+            I ask each of you to attempt to convince parents, family, relatives, neighbours, and everyone you meet
+            to get water harvesting installed, we will help you planning and getting stuff done, and with some help
+            from all of you, we can have these systems in 100s of homes, and save so much water. The installations only
+            cost a couple of thousands, dig holes and start off, and they restore a lot of ground water, that is cheaply
+            available to both people and businesses. Everyone can afford then, everyone should, and everyone identifies
+            with the problems faced when we don't. Apartments have the benefit of needing even less money per person to
+            do this stuff, just a will to act. And if you have it, please don't let a sense of hopelessness pull you down.
+
+            <a href="#join-btn">Volunteer to save the planet.</a>
+        </div>
+    </div>
+</div>
+<hr />
+
+<div class="row text-center" style="padding: 50px 0 50px;" id="join-btn">
+    <button class="btn btn-lg btn-success" style="font-size: xx-large; padding: 30px;"
+            data-toggle="collapse" data-target="#contribute" aria-expanded="false" aria-controls="contribute">
+        Join the Effort Now!
+    </button>
+    <div class="row collapse" style="padding-top: 50px;" id="contribute">
+        <div class="col-lg-4 text-center">
+            <button class="btn btn-lg btn-primary">Volunteer to Spread the Word</button>
+        </div>
+        <div class="col-lg-4 text-center">
+            <button class="btn btn-lg btn-danger"  >Tell us if you are Harvesting Water</button>
+        </div>
+        <div class="col-lg-4 text-center">
+            <button class="btn btn-lg btn-info"  >Need our help? We are there.</button>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

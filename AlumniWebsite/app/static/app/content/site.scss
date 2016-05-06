@@ -5,7 +5,8 @@ $color-light-green: #AACC33;
 $color-absolute-black: #000000;
 $color-coffee-brown: #6F4E37;
 $color-google-red: #dd4b39;
-$palette-theme: $color-coffee-brown;
+
+$palette-theme: $color-bright-blue;
 
 
 /* Theme Overrides */
@@ -31,7 +32,9 @@ select.form-control:focus {
     .navbar-nav>li:focus,
     .navbar-nav>.open>a,
     .navbar-nav>.open>a:hover,
-    .navbar-nav>.open>a:focus {
+    .navbar-nav>.open>a:focus
+    .nav-pills>li.active>a:focus,
+    .btn.btn-primary:focus {
         background-color: darken($palette-theme, 10%);
     }
 }
