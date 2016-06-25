@@ -32,8 +32,10 @@ def events(request):
     past_events = Event.objects.filter(date__lt=date.today()).order_by('-date')
     if future_events:
         main_event = future_events[0]
+        future_events = future_events[1:]
     else:
         main_event = past_events[0]
+        past_events = past_events[1:]
     assert isinstance(request, HttpRequest)
     return render(
         request,
